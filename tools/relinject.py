@@ -4,7 +4,7 @@
 - 옮길 수 없는 문자열(내부를 가리키는 참조가 있거나, 칸 뒤가 다른 참조 대상이 아닌 배열 의심): 제자리에 들어가면 교체, 아니면 원문 유지."""
 import struct, sys, os, collections
 sys.path.insert(0, os.path.dirname(__file__)); import rel, relstr
-def inject(d, enc_map, log=None, allow=None):
+def inject(d, enc_map, log=None, allow=None, reserve=0):
     """d: REL bytes, enc_map: 원문(str) -> 게임 바이트(bytes). 새 REL bytes 와 통계."""
     d = bytearray(d)
     h = struct.unpack_from('<12I', d, 0)
@@ -57,7 +57,19 @@ def inject(d, enc_map, log=None, allow=None):
     # 원래 칸을 비우고 큰 것부터 배치(first-fit decreasing)
     for a, se in pool: d[a:se] = bytes(se - a)
     pool.sort()
-    free = [list(p) for p in pool]
+    # 인접한 칸을 합쳐 연속 공간으로
+    merged = []
+    for a0, b0 in pool:
+        if merged and merged[-1][1] == a0: merged[-1][1] = b0
+        else: merged.append([a0, b0])
+    free = merged
+    st['reserved'] = None
+    if reserve:
+        for f in sorted(free, key=lambda f: f[1] - f[0], reverse=True):
+            s0 = (f[0] + 15) & ~15
+            if f[1] - s0 >= reserve:
+                st['reserved'] = s0; f[0] = s0 + reserve; break
+        assert st['reserved'] is not None, 'no contiguous space for reserve'
     newaddr = {}
     for a, t, new in sorted(moves, key=lambda x: -len(x[2])):
         need = len(new) + 1

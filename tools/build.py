@@ -26,7 +26,24 @@ def main():
         if s < 16: continue
         d = get(h)
         if d[:8] != b'IFF0ASSH': continue
-        nd, st = inject.inject(d, tr.assh(h), force_all=tr.force_all(h))
+        ctr = None
+        if h == 0x3690fe30:      # 키보드 화면 청크: 글자 키에 자모 병기, CAPS LOCK → 한/영
+            KL = json.load(open(os.path.join(ROOT, 'translation', 'keyboard_labels.json'), encoding='utf-8'))
+            ctr = {0x1fe130: lambda b, KL=KL: tr.enc(KL[b.decode('latin1')]) if b.decode('latin1') in KL else None}
+        cpost = None
+        if h == 0x3690fe30:
+            def _shrink(orig, nc, KL=KL):
+                import assh as _a
+                nc = bytearray(nc)
+                for o, s_, refs in _a.strings(orig, 0, len(orig)):
+                    t = s_.decode('latin1')
+                    if t in KL and 'CAPS' not in t:
+                        for k in refs:
+                            if nc[k + 17] == 0xff and nc[k + 18] == 3:          # 요소의 글자 크기 바이트 = 참조 +16
+                                nc[k + 16] = int(os.environ.get('KO_KEYSIZE', 10))
+                return bytes(nc)
+            cpost = {0x1fe130: _shrink}
+        nd, st = inject.inject(d, tr.assh(h), force_all=tr.force_all(h), chunk_tr=ctr, chunk_post=cpost)
         if st['n']:
             new[h] = nd
     log('ASSH files changed', len(new), 'strings', tr.count)
@@ -94,7 +111,15 @@ def main():
                     if ' ' in t.strip() or '%' in t: return True          # 문장형·printf
                     if t in TITLES: return True                           # 팝업 제목
                     return m == 'FE' and 0x2f3000 <= a < 0x2f6200          # FE 옵션 표(이름·값)
-                p, st = relinject.inject(p, em, allow=allow)
+                import kbd
+                RES = 6144 if m == 'FE' else 0
+                p, st = relinject.inject(p, em, allow=allow, reserve=RES)
+                if m == 'FE' and not os.environ.get('KO_NOKBD'):
+                    blob, ins_a, del_a = kbd.build(st['reserved'], tr.syl_sorted)
+                    assert len(blob) <= RES
+                    p = bytearray(p); p[st['reserved']:st['reserved'] + len(blob)] = blob
+                    p = kbd.patch_relocs(bytes(p), ins_a, del_a)
+                    log('keyboard blob', hex(st['reserved']), len(blob))
                 log(m, 'REL strings', {k: v for k, v in st.items() if k != 'kept_list'})
                 json.dump(st['kept_list'], open(os.path.join(ROOT, 'work', f'rel_kept_{m}.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
             assert len(p) == len(d)

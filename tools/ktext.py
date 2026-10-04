@@ -50,9 +50,11 @@ class Translator:
         for v in list(self.map.values()) + [x for p in self.names.values() for x in p]:
             for ch in v:
                 if is_syl(ch): used[ch] = used.get(ch, 0) + 1
-        # 자주 쓰는 음절부터(영문 텍스처 쪽에 먼저 배치)
-        self.sylls = sorted(used, key=lambda c: (-used[c], c))
-        assert len(self.sylls) <= kfont.CAP, f'too many syllables {len(self.sylls)}'
+        # 유니코드 순 음절(키보드 조합용) + 끝에 호환 자모 51자
+        import hangul
+        assert len(used) <= kfont.CAP - 51, f'too many syllables {len(used)}'
+        self.syl_sorted = hangul.build_set(used, kfont.CAP - 51)
+        self.sylls = self.syl_sorted + hangul.COMPAT
         self.code = kfont.encode_map(self.sylls)
         self.count = 0
     def syllables(self): return self.sylls
@@ -61,7 +63,7 @@ class Translator:
         for ch in s:
             ch = SUBST.get(ch, ch)
             if len(ch) > 1: out += ch.encode('ascii'); continue
-            if is_syl(ch): out += self.code[ch]
+            if is_syl(ch) or ch in self.code: out += self.code[ch]
             elif ord(ch) < 0x7f: out.append(ord(ch))
             else: raise ValueError(f'unencodable {ch!r} in {s!r}')
         return bytes(out)

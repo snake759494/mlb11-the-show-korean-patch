@@ -23,13 +23,14 @@ def inject_chunk(c, tr, stats, force_all=False):
         if len(disp) == len(refs) and len(new) <= len(s):
             c[o:o + len(s)] = new + bytes(len(s) - len(new)); stats['inplace'] += 1
         else:
+            tail += bytes((-(base + len(tail))) % 4)    # 4바이트 정렬 (정렬 안 된 문자열은 글자 크기가 무시됨)
             no = base + len(tail); tail += new + b'\0'
             for k in disp: struct.pack_into('<I', c, k, no)
             stats['moved'] += 1
     if tail:
         tail += bytes((-len(tail)) % 16)
     return bytes(c + tail)
-def inject(d, tr, force_all=False):
+def inject(d, tr, force_all=False, chunk_tr=None, chunk_post=None):
     stats = {'n': 0, 'inplace': 0, 'moved': 0}
     C = assh.chunks(d)
     first = C[0][0]
@@ -40,7 +41,13 @@ def inject(d, tr, force_all=False):
         end = C[idx + 1][0] if idx + 1 < len(C) else len(d)
         blob = d[i:end]
         if sz < 0x80000000 and sz > 0:
-            nc = inject_chunk(d[i + 16:i + 16 + sz], tr, stats, force_all)
+            ctr = tr
+            if chunk_tr and i in chunk_tr:
+                over = chunk_tr[i]
+                ctr = lambda b, over=over: over(b) if over(b) is not None else tr(b)
+            orig_c = d[i + 16:i + 16 + sz]
+            nc = inject_chunk(orig_c, ctr, stats, force_all)
+            if chunk_post and i in chunk_post: nc = chunk_post[i](orig_c, nc)
             rest = d[i + 16 + sz:end]
             blob = d[i:i + 12] + struct.pack('<I', len(nc)) + nc + rest
         shift[i] = first + len(out)

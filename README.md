@@ -5,9 +5,9 @@
 
 ## 적용 방법
 1. 원본 `MLB 11 - The Show (USA).iso` 를 준비합니다(아래 해시 확인).
-2. 릴리즈의 `MLB11_PS2_KO_v1.0.xdelta` 를 받아 xdelta3 로 적용합니다.
+2. 릴리즈의 `MLB11_PS2_KO_v1.1.xdelta` 를 받아 xdelta3 로 적용합니다.
 ```
-xdelta3 -d -s "MLB 11 - The Show (USA).iso" MLB11_PS2_KO_v1.0.xdelta "MLB 11 - The Show (USA) (Korean).iso"
+xdelta3 -d -s "MLB 11 - The Show (USA).iso" MLB11_PS2_KO_v1.1.xdelta "MLB 11 - The Show (USA) (Korean).iso"
 ```
 (Windows 는 xdeltaUI 등 GUI 도구도 가능)
 
@@ -16,9 +16,9 @@ xdelta3 -d -s "MLB 11 - The Show (USA).iso" MLB11_PS2_KO_v1.0.xdelta "MLB 11 - T
 | 원본 ISO 크기 | 4,391,763,968 B |
 | 원본 ISO MD5 | `9cbb61140de4240fd4a6f7d7ca364fa5` |
 | 원본 ISO SHA-256 | `34990a1c3805ba085bc3642cd2c787c684751847d7d09d3d828c65139c72d3f2` |
-| xdelta SHA-256 | `038ad0d579b5f9e97d41b2dfe3299abea48c918771c7ba9e7b56148bfd32cb92` |
+| xdelta SHA-256 | `ffd10fb42716c109751d4a57f3dde39bfdc0629ba0ec1d88af93bae0bfe3847b` |
 | 결과 ISO 크기 | 4,510,695,424 B (DVD-9 크기라 실기기 굽기는 DL 매체 필요) |
-| 결과 ISO SHA-256 | `d2ef832efdce302f5dbfa96fb588449a73048acb0d20c1f9ef75e3fe74f392e3` |
+| 결과 ISO SHA-256 | `0083099e32467ca379e74ee5fa69bf7b489ae4bd4b5605977b153ccc6eeadd75` |
 
 이전 버전 패치로 만든 세이브스테이트는 쓰지 말고 새 ISO 로 처음부터 시작하세요.
 
@@ -27,6 +27,12 @@ xdelta3 -d -s "MLB 11 - The Show (USA).iso" MLB11_PS2_KO_v1.0.xdelta "MLB 11 - T
 - 로드 투 더 쇼 메시지 약 3,000종, 목표·피드백, 프랜차이즈 문구(코치·시설·계약·뉴스 등), 경기 중 자막·기록 문구, 선수 주요 기록
 - 선수 이름 2,736명(한국 언론 표기 기준 음역), 30개 구단명·연고지, 구장·마이너리그 지구 이름
 - 그대로 둔 것: AVG·HR·ERA 같은 짧은 통계 약어와 구종 약어, 그림으로 된 로고·글자, 실황 음성, 게임 내부 키로 쓰이는 단어(색상·손 방향·팀 별칭·구장 재질·목표 조건)
+
+## 한글 키보드 (v1.1)
+선수·팀 이름 등을 입력하는 게임 내 키보드에서 2벌식 한글을 입력할 수 있습니다.
+- `한/영` 키(원래 CAPS LOCK)로 전환, 글자 키에 자모 병기(Q ㅂ, W ㅈ …). 쌍자음·ㅒ·ㅖ 는 SHIFT.
+- 겹모음·겹받침 조합, 받침 넘김(각+ㅏ→가가), 삭제 시 한 글자 단위 삭제.
+- 글꼴에 넣은 1,485음절(KS X 1001 상용 음절 중심 + 게임에 쓰인 음절)과 낱자모 51자 안에서 조합됩니다. 집합에 없는 음절(예: 닭)은 받침을 다음 칸 자모로 넘깁니다.
 
 ## 기술 요약
 - 원래 글꼴은 1바이트(ASCII)뿐이라 엔진의 `uiTextHandler::HandlePrintableChar`(FE/GAME/HRDERBY.REL)를 고쳐 2바이트 한글 코드를 글꼴 페이지로 해석하게 했습니다. 한글 최대 1,536자(현재 1,159자), 글꼴은 나눔스퀘어네오 ExtraBold 15px.

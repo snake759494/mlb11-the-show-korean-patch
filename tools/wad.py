@@ -3,8 +3,8 @@ import struct, os, sys
 sys.path.insert(0, os.path.dirname(__file__)); import iso
 WAD_LBA = 9606
 def table(isop=iso.ISO):
-    h = iso.read(WAD_LBA, 0x16000, isop)
-    n = struct.unpack_from('<I', h, 0)[0]
+    n = struct.unpack_from('<I', iso.read(WAD_LBA, 4, isop), 0)[0]
+    h = iso.read(WAD_LBA, 8 + 12 * n, isop)
     return [struct.unpack_from('<3I', h, 8 + 12 * i) for i in range(n)]
 def get(hsh, isop=iso.ISO):
     for h, s, o in table(isop):
