@@ -28,8 +28,9 @@ def main(name):
     T = json.load(open(p, encoding='utf-8'))
     bad = 0
     for it in B:
+        if str(it['id']) not in T: print(it['id'], '번역 누락'); bad += 1; continue
         ko = T.get(str(it['id']))
-        if ko is None: print(it['id'], '번역 누락'); bad += 1; continue
+        if ko is None and name.startswith('disp_'): continue      # 표시 번역 묶음: null = 건너뜀(내부 키 등)
         e = check(it['en'], ko, it['max'])
         if 'help' in it['src'] and ko.count(',') > it['en'].count(','): e.append('쉼표 추가(CSV)')
         if it.get('printf'):

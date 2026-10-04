@@ -5,9 +5,9 @@
 
 ## 적용 방법
 1. 원본 `MLB 11 - The Show (USA).iso` 를 준비합니다(아래 해시 확인).
-2. 릴리즈의 `MLB11_PS2_KO_v1.1.xdelta` 를 받아 xdelta3 로 적용합니다.
+2. 릴리즈의 `MLB11_PS2_KO_v1.2.xdelta` 를 받아 xdelta3 로 적용합니다.
 ```
-xdelta3 -d -s "MLB 11 - The Show (USA).iso" MLB11_PS2_KO_v1.1.xdelta "MLB 11 - The Show (USA) (Korean).iso"
+xdelta3 -d -s "MLB 11 - The Show (USA).iso" MLB11_PS2_KO_v1.2.xdelta "MLB 11 - The Show (USA) (Korean).iso"
 ```
 (Windows 는 xdeltaUI 등 GUI 도구도 가능)
 
@@ -16,9 +16,9 @@ xdelta3 -d -s "MLB 11 - The Show (USA).iso" MLB11_PS2_KO_v1.1.xdelta "MLB 11 - T
 | 원본 ISO 크기 | 4,391,763,968 B |
 | 원본 ISO MD5 | `9cbb61140de4240fd4a6f7d7ca364fa5` |
 | 원본 ISO SHA-256 | `34990a1c3805ba085bc3642cd2c787c684751847d7d09d3d828c65139c72d3f2` |
-| xdelta SHA-256 | `ffd10fb42716c109751d4a57f3dde39bfdc0629ba0ec1d88af93bae0bfe3847b` |
+| xdelta SHA-256 | `4c1b14f92ee21dc71955b7d6cfbfc5e33543efdb20544663348f56563857bda2` |
 | 결과 ISO 크기 | 4,510,695,424 B (DVD-9 크기라 실기기 굽기는 DL 매체 필요) |
-| 결과 ISO SHA-256 | `0083099e32467ca379e74ee5fa69bf7b489ae4bd4b5605977b153ccc6eeadd75` |
+| 결과 ISO SHA-256 | `d427577180a55ce6de1135382e3251cde860e9b210aa0e64b24acfc038d45d0e` |
 
 이전 버전 패치로 만든 세이브스테이트는 쓰지 말고 새 ISO 로 처음부터 시작하세요.
 

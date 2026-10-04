@@ -1,0 +1,5239 @@
+[
+{
+"id": 402100,
+"en": "b,a",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 402101,
+"en": "b,c",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402102,
+"en": "b,d",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402103,
+"en": "b,h",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402104,
+"en": "b,i",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402105,
+"en": "b,k",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402106,
+"en": "b,m",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402107,
+"en": "b,n",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402108,
+"en": "b,o",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402109,
+"en": "b,p",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402110,
+"en": "b,q",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 402111,
+"en": "b,s",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402112,
+"en": "b,t",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402113,
+"en": "b,x",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402114,
+"en": "b,z",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402115,
+"en": "b.I",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402116,
+"en": "b.J",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402117,
+"en": "b.M",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402118,
+"en": "b.h",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402119,
+"en": "b.n",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402120,
+"en": "b8-H",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402121,
+"en": "ballcannon.hit",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402122,
+"en": "bdquo",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402123,
+"en": "beaned in arm",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402124,
+"en": "beaned in head",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402125,
+"en": "bh(",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402126,
+"en": "bh<",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402127,
+"en": "bl/",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402128,
+"en": "blending",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402129,
+"en": "blendmode",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402130,
+"en": "bm'",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402131,
+"en": "break",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402132,
+"en": "brkbar",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402133,
+"en": "brvbar",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402134,
+"en": "burton",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402135,
+"en": "c$! C",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402136,
+"en": "c$! b",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402137,
+"en": "c$!0C",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402138,
+"en": "c$!He",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402139,
+"en": "c$#(e",
+"max": null,
+"src": [
+"FE",
+"HRDERBY"
+]
+},
+{
+"id": 402140,
+"en": "c$-P",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402141,
+"en": "c$A",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402142,
+"en": "c$C",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402143,
+"en": "c$D",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 402144,
+"en": "c$E",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402145,
+"en": "c$F",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402146,
+"en": "c$G",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402147,
+"en": "c$H",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402148,
+"en": "c$K",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402149,
+"en": "c$L",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402150,
+"en": "c$N",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402151,
+"en": "c$P",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402152,
+"en": "c$P,B$",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402153,
+"en": "c$Q",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402154,
+"en": "c$R",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402155,
+"en": "c$T",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402156,
+"en": "c$T-",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402157,
+"en": "c$X",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402158,
+"en": "c$Y",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402159,
+"en": "c$d",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402160,
+"en": "c$f",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402161,
+"en": "c$h",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402162,
+"en": "c$j",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402163,
+"en": "c$l",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402164,
+"en": "c$n",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402165,
+"en": "c$p",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402166,
+"en": "c$r",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402167,
+"en": "c$t",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 402168,
+"en": "c$y",
+"max": null,
+"src": [
+"FE",
+"HRDERBY"
+]
+},
+{
+"id": 402169,
+"en": "c&!HC",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402170,
+"en": "c&P",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402171,
+"en": "c&T",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402172,
+"en": "c&X",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402173,
+"en": "c&d",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402174,
+"en": "c&t",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402175,
+"en": "c(A",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402176,
+"en": "c(T",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402177,
+"en": "c(Y",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402178,
+"en": "c(x",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402179,
+"en": "c*c",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402180,
+"en": "c,! C",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402181,
+"en": "c,! D",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402182,
+"en": "c,-P`",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402183,
+"en": "c,C",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402184,
+"en": "c,D",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402185,
+"en": "c,H",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402186,
+"en": "c,I",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402187,
+"en": "c,L",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402188,
+"en": "c,X",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402189,
+"en": "c,d",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402190,
+"en": "c,h",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402191,
+"en": "c,l",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402192,
+"en": "c,t",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402193,
+"en": "c.E",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402194,
+"en": "catcher collision",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402195,
+"en": "ccedil",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402196,
+"en": "cdrom0:",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402197,
+"en": "cdrom0:/SNDPS2/",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402198,
+"en": "cedil",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402199,
+"en": "ceilf",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402200,
+"en": "cgills",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402201,
+"en": "changeup",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402202,
+"en": "ci(",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402203,
+"en": "clubs",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402204,
+"en": "cm/",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402205,
+"en": "coaches",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402206,
+"en": "collision",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402207,
+"en": "color",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402208,
+"en": "colorlerptime",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402209,
+"en": "const",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402210,
+"en": "context",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402211,
+"en": "continue",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402212,
+"en": "continuous",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402213,
+"en": "contract",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402214,
+"en": "contracts",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402215,
+"en": "count 0-2",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402216,
+"en": "count 2-0",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402217,
+"en": "count 3-0",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402218,
+"en": "crarr",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402219,
+"en": "crowdchair",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402220,
+"en": "crowdmodel",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402221,
+"en": "culling",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402222,
+"en": "curren",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402223,
+"en": "curveball",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402224,
+"en": "custom",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402225,
+"en": "cutliff",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402226,
+"en": "d$!(L",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402227,
+"en": "d$D",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402228,
+"en": "d$P",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402229,
+"en": "d$p",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402230,
+"en": "d&T",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402231,
+"en": "d&x",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402232,
+"en": "d(n",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402233,
+"en": "dagger",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402234,
+"en": "data/heads/Custom/Player.pkg",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402235,
+"en": "data/heads/custom0/packfile",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402236,
+"en": "data/models",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402237,
+"en": "data/models/",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402238,
+"en": "data/models/bttrstrm.bbs",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402239,
+"en": "data/models/head03",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402240,
+"en": "data/models/newumphead01",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402241,
+"en": "data/models/shadow",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402242,
+"en": "data/models/shadow02",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402243,
+"en": "data/objects/",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402244,
+"en": "data/objects/baseball",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402245,
+"en": "data/objects/bat",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402246,
+"en": "data/objects/batbox/catchcalltarget",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402247,
+"en": "data/objects/markers/",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402248,
+"en": "data/stadiums/common/",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402249,
+"en": "data/stadiums/common/crowdcharacter",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402250,
+"en": "data/stadiums/common/hrd.scr",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402251,
+"en": "data/uniforms",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402252,
+"en": "data/uniforms/american/",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402253,
+"en": "data/uniforms/national/",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402254,
+"en": "debug",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402255,
+"en": "debugall",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402256,
+"en": "default",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402257,
+"en": "delay",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402258,
+"en": "delta",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402259,
+"en": "dev9x:",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402260,
+"en": "dev=11",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402261,
+"en": "diams",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402262,
+"en": "divide",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402263,
+"en": "diving",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402264,
+"en": "dm!",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402265,
+"en": "dn!",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402266,
+"en": "do(",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402267,
+"en": "dpadd",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402268,
+"en": "dpcmp",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402269,
+"en": "dpdiv",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402270,
+"en": "dpmul",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402271,
+"en": "dpsub",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402272,
+"en": "dptofp",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402273,
+"en": "dptoli",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402274,
+"en": "dptoul",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402275,
+"en": "duration",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402276,
+"en": "dz#",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402277,
+"en": "e$!8Q",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402278,
+"en": "e$!8R",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402279,
+"en": "e$L",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402280,
+"en": "e$p",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402281,
+"en": "e&P",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402282,
+"en": "eacute",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402283,
+"en": "eastern",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402284,
+"en": "ecirc",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402285,
+"en": "ed=32",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402286,
+"en": "egrave",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402287,
+"en": "eh(",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402288,
+"en": "eight",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402289,
+"en": "em'",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402290,
+"en": "em/",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402291,
+"en": "empty",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402292,
+"en": "en/",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402293,
+"en": "enabled",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402294,
+"en": "endcolor",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402295,
+"en": "endframe",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402296,
+"en": "english",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402297,
+"en": "entry",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402298,
+"en": "epsilon",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402299,
+"en": "equiv",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402300,
+"en": "eventID >= 0",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402301,
+"en": "eventmanager",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402302,
+"en": "ex-8",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402303,
+"en": "exist",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402304,
+"en": "extern",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402305,
+"en": "eyetoy",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402306,
+"en": "eyetoy^r^",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 402307,
+"en": "f$H",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402308,
+"en": "f$x",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402309,
+"en": "f&L",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402310,
+"en": "false",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402311,
+"en": "fastball",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402312,
+"en": "fff?6",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402313,
+"en": "fff?=",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402314,
+"en": "fff?L",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402315,
+"en": "fff?M",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402316,
+"en": "fff?N",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402317,
+"en": "fff?O",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402318,
+"en": "field",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402319,
+"en": "fielding the ball",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402320,
+"en": "fl'",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402321,
+"en": "fl(",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402322,
+"en": "fl?",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402323,
+"en": "float",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402324,
+"en": "floor",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402325,
+"en": "floorf",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402326,
+"en": "fmodf",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402327,
+"en": "foobar",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402328,
+"en": "forall",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402329,
+"en": "forced fly out",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402330,
+"en": "forced ground out",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402331,
+"en": "fortran",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402332,
+"en": "fprintf",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402333,
+"en": "fptodp",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402334,
+"en": "fptoui",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402335,
+"en": "frasl",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402336,
+"en": "fread",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402337,
+"en": "fsyscd.irx",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402338,
+"en": "fwrite",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402339,
+"en": "f|P",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402340,
+"en": "f|p",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402341,
+"en": "g$D",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402342,
+"en": "gamma",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402343,
+"en": "garcias",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402344,
+"en": "gi(",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402345,
+"en": "gl'",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402346,
+"en": "gl?",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402347,
+"en": "gm/",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402348,
+"en": "got out of bases loaded",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402349,
+"en": "got out of bases loaded no outs",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402350,
+"en": "gtd=64",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402351,
+"en": "h$!(J",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402352,
+"en": "hainey",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402353,
+"en": "hb+",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402354,
+"en": "hdd0:",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402355,
+"en": "hearts",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402356,
+"en": "hellip",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402357,
+"en": "helmet",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402358,
+"en": "hh'",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402359,
+"en": "hh(",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402360,
+"en": "hi'",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402361,
+"en": "hi(",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402362,
+"en": "hibar",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402363,
+"en": "hl/",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402364,
+"en": "hm'",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402365,
+"en": "homedugoutloc",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402366,
+"en": "homedugoutseatleft",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402367,
+"en": "homedugoutseatright",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402368,
+"en": "homeondeck",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402369,
+"en": "homeumpdb=",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402370,
+"en": "host0:",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402371,
+"en": "host0:MLBPS2.WAD",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402372,
+"en": "hr$",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402373,
+"en": "hub=1",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402374,
+"en": "hw!",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402375,
+"en": "i&-X",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402376,
+"en": "iacute",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402377,
+"en": "icirc",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402378,
+"en": "icon.sys",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402379,
+"en": "iexcl",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402380,
+"en": "igrave",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402381,
+"en": "ih(",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402382,
+"en": "il'",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402383,
+"en": "il/",
+"max": null,
+"src": [
+"FE",
+"HRDERBY"
+]
+},
+{
+"id": 402384,
+"en": "il?",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402385,
+"en": "im/",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402386,
+"en": "image",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402387,
+"en": "index",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402388,
+"en": "infin",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402389,
+"en": "inside ",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402390,
+"en": "integer",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402391,
+"en": "international",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402392,
+"en": "ioreq=64",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402393,
+"en": "iquest",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402394,
+"en": "isinff",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402395,
+"en": "isnanf",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402396,
+"en": "itd=64",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402397,
+"en": "jh(",
+"max": null,
+"src": [
+"FE",
+"HRDERBY"
+]
+},
+{
+"id": 402398,
+"en": "ji(",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402399,
+"en": "jl/",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402400,
+"en": "jumbotron",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402401,
+"en": "kappa",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402402,
+"en": "kh(",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402403,
+"en": "knuckleball",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402404,
+"en": "lambda",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402405,
+"en": "laquo",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402406,
+"en": "large",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402407,
+"en": "lceil",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402408,
+"en": "ldquo",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402409,
+"en": "leftfieldfoulpole",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402410,
+"en": "letters",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402411,
+"en": "lfloor",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402412,
+"en": "lgvid",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402413,
+"en": "lgvid.irx",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402414,
+"en": "lh'",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402415,
+"en": "libsd.irx",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402416,
+"en": "litodp",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402417,
+"en": "lj'",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402418,
+"en": "lk'",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402419,
+"en": "lm!",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402420,
+"en": "ln!",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402421,
+"en": "location",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402422,
+"en": "lockoncamera",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402423,
+"en": "looping",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402424,
+"en": "lowast",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402425,
+"en": "lowerpants",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402426,
+"en": "lsaquo",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402427,
+"en": "lsquo",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402428,
+"en": "lu$",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402429,
+"en": "lx!",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402430,
+"en": "malloc",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402431,
+"en": "matrix",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402432,
+"en": "mcarther",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402433,
+"en": "mcman",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402434,
+"en": "mcman.irx",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402435,
+"en": "mcserv",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402436,
+"en": "mcserv.irx",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402437,
+"en": "mdash",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402438,
+"en": "medium",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402439,
+"en": "memcmp",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402440,
+"en": "memcpy",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402441,
+"en": "memmove",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402442,
+"en": "memset",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402443,
+"en": "mh(",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402444,
+"en": "micro",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402445,
+"en": "middot",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402446,
+"en": "minus",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402447,
+"en": "missing! -> Canned Scene id: ",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402448,
+"en": "monks",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402449,
+"en": "morphtime",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402450,
+"en": "nabla",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402451,
+"en": "national",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402452,
+"en": "ndash",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402453,
+"en": "nn'",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402454,
+"en": "no Init",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402455,
+"en": "nolabel",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402456,
+"en": "notin",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402457,
+"en": "ntilde",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402458,
+"en": "numQueues > 0",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402459,
+"en": "numbers",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402460,
+"en": "oacute",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402461,
+"en": "ocirc",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402462,
+"en": "oelig",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402463,
+"en": "ograve",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402464,
+"en": "ol?",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402465,
+"en": "oldmitt",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402466,
+"en": "oline",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402467,
+"en": "omega",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402468,
+"en": "omicron",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402469,
+"en": "on'",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402470,
+"en": "on/",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402471,
+"en": "oplus",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402472,
+"en": "optional",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402473,
+"en": "oslash",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402474,
+"en": "otilde",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402475,
+"en": "otimes",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402476,
+"en": "outright",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402477,
+"en": "outside ",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402478,
+"en": "p$P",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402479,
+"en": "p&P",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402480,
+"en": "p&Z",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402481,
+"en": "p,O",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402482,
+"en": "p,h",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402483,
+"en": "p,t",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402484,
+"en": "pData + getSaveDataSize() == p.pu8",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402485,
+"en": "pEvent->numParameters == dataSize",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402486,
+"en": "pFragmentListParameterIndexToEventParameterIndexTable[k] < pEvent->numParameters",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402487,
+"en": "pacific",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402488,
+"en": "pants",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402489,
+"en": "parent",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402490,
+"en": "pattern",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402491,
+"en": "pe*",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402492,
+"en": "permil",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402493,
+"en": "pf'",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402494,
+"en": "pfs:",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402495,
+"en": "ph$",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402496,
+"en": "ph*",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402497,
+"en": "phys bats",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402498,
+"en": "pitchdb=",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402499,
+"en": "pitching",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402500,
+"en": "player",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402501,
+"en": "plusmn",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402502,
+"en": "po*",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402503,
+"en": "postrender",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402504,
+"en": "pound",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402505,
+"en": "pre game",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402506,
+"en": "prime",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402507,
+"en": "printf",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402508,
+"en": "pw!",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402509,
+"en": "q,D",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402510,
+"en": "q,i",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402511,
+"en": "q=J?^",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402512,
+"en": "q=j?6",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402513,
+"en": "qn/",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402514,
+"en": "qsort",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402515,
+"en": "r$D",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402516,
+"en": "r$P",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402517,
+"en": "r$X",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402518,
+"en": "r$x",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402519,
+"en": "r&X",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402520,
+"en": "r&l\"q&",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402521,
+"en": "r,R",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402522,
+"en": "r,c",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402523,
+"en": "radic",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402524,
+"en": "random",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402525,
+"en": "raquo",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402526,
+"en": "rceil",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402527,
+"en": "rdquo",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402528,
+"en": "register",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402529,
+"en": "release",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402530,
+"en": "replaces",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 402531,
+"en": "replay",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402532,
+"en": "research/sprites/gil",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402533,
+"en": "resource",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402534,
+"en": "return",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402535,
+"en": "reverse",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402536,
+"en": "rfloor",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402537,
+"en": "rightfieldfoulpole",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402538,
+"en": "rj(",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402539,
+"en": "rsaquo",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402540,
+"en": "rsquo",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402541,
+"en": "runner collision",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402542,
+"en": "running",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402543,
+"en": "s$X",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402544,
+"en": "s&! P",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402545,
+"en": "s&H",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402546,
+"en": "s&I",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402547,
+"en": "s&K",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402548,
+"en": "s&L",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402549,
+"en": "s&O",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402550,
+"en": "s&P",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402551,
+"en": "s&c",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402552,
+"en": "s.Y",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402553,
+"en": "sbquo",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402554,
+"en": "scaron",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402555,
+"en": "sceMpegGetPicture() decode error",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402556,
+"en": "scoreboard",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402557,
+"en": "scored",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402558,
+"en": "scores.",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 402559,
+"en": "sdafsda",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 402560,
+"en": "season",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402561,
+"en": "seasons",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402562,
+"en": "seed=",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402563,
+"en": "seven",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402564,
+"en": "short",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402565,
+"en": "sigma",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402566,
+"en": "sigmaf",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402567,
+"en": "signed",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402568,
+"en": "sinker",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402569,
+"en": "sio2man.irx",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402570,
+"en": "sizeRead == sizeToRead",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402571,
+"en": "sizeof",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402572,
+"en": "sizeof(U64) == 8",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402573,
+"en": "sleeves",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402574,
+"en": "slider",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402575,
+"en": "sliding into a base",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402576,
+"en": "small",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402577,
+"en": "southern",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402578,
+"en": "spades",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402579,
+"en": "specialmonument",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402580,
+"en": "speed",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402581,
+"en": "splitter",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402582,
+"en": "sprintf",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402583,
+"en": "sqrtf",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402584,
+"en": "stadiums",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402585,
+"en": "stancedb=",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402586,
+"en": "startcolor",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402587,
+"en": "startframe",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402588,
+"en": "static",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402589,
+"en": "strap",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402590,
+"en": "strcasecmp",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402591,
+"en": "strcat",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402592,
+"en": "strchr",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402593,
+"en": "strcmp",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402594,
+"en": "strcpy",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402595,
+"en": "streamed",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402596,
+"en": "strike",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402597,
+"en": "striking out the side",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402598,
+"en": "string",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402599,
+"en": "strlen",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402600,
+"en": "strlwr",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402601,
+"en": "strncasecmp",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402602,
+"en": "strncat",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402603,
+"en": "strncmp",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402604,
+"en": "strncpy",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402605,
+"en": "strrchr",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402606,
+"en": "strstr",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402607,
+"en": "strtod",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402608,
+"en": "strtol",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402609,
+"en": "strtoul",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402610,
+"en": "struct",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402611,
+"en": "strupr",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402612,
+"en": "superlow",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402613,
+"en": "swinging",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402614,
+"en": "switch",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402615,
+"en": "symbols",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402616,
+"en": "system",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402617,
+"en": "szlig",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402618,
+"en": "t$X",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402619,
+"en": "t&P",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402620,
+"en": "tagging a runner",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402621,
+"en": "targetmodel",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402622,
+"en": "tb+",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402623,
+"en": "texas",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402624,
+"en": "texturefilter",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402625,
+"en": "textures",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402626,
+"en": "textureset",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402627,
+"en": "tg'",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402628,
+"en": "tg+",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402629,
+"en": "theta",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402630,
+"en": "thetasym",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402631,
+"en": "thinsp",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402632,
+"en": "thorn",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402633,
+"en": "three",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402634,
+"en": "throwing the ball",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402635,
+"en": "tilde",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402636,
+"en": "times",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402637,
+"en": "tinybox",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402638,
+"en": "tinycheck",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402639,
+"en": "tm!",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402640,
+"en": "tn!",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402641,
+"en": "toupper",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402642,
+"en": "trade",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 402643,
+"en": "trigger",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402644,
+"en": "triggered",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402645,
+"en": "tx!",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402646,
+"en": "tying run allowed",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402647,
+"en": "typedef",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402648,
+"en": "u$P",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402649,
+"en": "u&p",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402650,
+"en": "uacute",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402651,
+"en": "uamount",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402652,
+"en": "ucirc",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402653,
+"en": "ugrave",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402654,
+"en": "unidirt",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402655,
+"en": "union",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402656,
+"en": "unknown",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402657,
+"en": "unsigned",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402658,
+"en": "unused",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402659,
+"en": "upsih",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402660,
+"en": "upsilon",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402661,
+"en": "usbd.irx",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402662,
+"en": "v$h",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402663,
+"en": "v$p",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402664,
+"en": "value",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402665,
+"en": "vamount",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402666,
+"en": "variety.rat",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402667,
+"en": "visibility",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402668,
+"en": "volatile",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402669,
+"en": "vsnprintf",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402670,
+"en": "vsprintf",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402671,
+"en": "w&D",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402672,
+"en": "walks.",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 402673,
+"en": "warmboot",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402674,
+"en": "weierp",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402675,
+"en": "while",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402676,
+"en": "xg'",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402677,
+"en": "xh*",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402678,
+"en": "xj$",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402679,
+"en": "xl'",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402680,
+"en": "xu$",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402681,
+"en": "xw!",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402682,
+"en": "xx+",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402683,
+"en": "xy-",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402684,
+"en": "yacute",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402685,
+"en": "years",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402686,
+"en": "yl'",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402687,
+"en": "yl/",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402688,
+"en": "ym'",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402689,
+"en": "zread",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402690,
+"en": "zwrite",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402691,
+"en": "| ACTIVATE EDITOR TO VIEW TRANSITIONS | PRESS SQUARE TO DEMO TRANSITION TYPE ",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402692,
+"en": "| OFF | ON ",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402693,
+"en": "| PAD A | PAD B | PAD C | PAD D ",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402694,
+"en": "| POLAR CAMERA | POSITIONED CAMERA ",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402695,
+"en": "| SCREEN WIPE | SCREEN DISSOLVE | SCREEN FADE OUT ",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402696,
+"en": "}fl- ",
+"max": null,
+"src": [
+"HRDERBY"
+]
+}
+]

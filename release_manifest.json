@@ -1,5 +1,1 @@
-{"version":"v1.1","asset":"MLB11_PS2_KO_v1.1.xdelta","asset_size":108251202,
- "asset_sha256":"ffd10fb42716c109751d4a57f3dde39bfdc0629ba0ec1d88af93bae0bfe3847b",
- "source_iso":"MLB 11 - The Show (USA).iso","source_iso_size":4391763968,"source_iso_md5":"9cbb61140de4240fd4a6f7d7ca364fa5",
- "source_iso_sha256":"34990a1c3805ba085bc3642cd2c787c684751847d7d09d3d828c65139c72d3f2",
- "result_iso_size":4510695424,"result_iso_sha256":"0083099e32467ca379e74ee5fa69bf7b489ae4bd4b5605977b153ccc6eeadd75"}
+{"version": "v1.2", "asset": "MLB11_PS2_KO_v1.2.xdelta", "asset_size": 89836739, "asset_sha256": "4c1b14f92ee21dc71955b7d6cfbfc5e33543efdb20544663348f56563857bda2", "source_iso": "MLB 11 - The Show (USA).iso", "source_iso_size": 4391763968, "source_iso_md5": "9cbb61140de4240fd4a6f7d7ca364fa5", "source_iso_sha256": "34990a1c3805ba085bc3642cd2c787c684751847d7d09d3d828c65139c72d3f2", "result_iso_size": 4510695424, "result_iso_sha256": "d427577180a55ce6de1135382e3251cde860e9b210aa0e64b24acfc038d45d0e"}

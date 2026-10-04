@@ -1,0 +1,357 @@
+s00-1 (game mode - franchise popup): "FRANCHISE" | "CONTINUE"
+s00-2 (game mode - rosters popup): "ROSTERS" | "CURRENT" | "DEFAULT" | "SAVED"
+s00-3 (team select - giants): "OVR" | "AAA" | "AA" | "GRIZZLIES" | "FLYING SQUIRRELS" | "P1" | "NLW" | "MLB" | "AVG" | "ERA" | "W-L" | "SP" | "1B" | "1ST PLACE NLW" | "2ND"
+s00-4 (team select - orioles): "OVR" | "AAA" | "AA" | "TIDES" | "BAYSOX" | "P1" | "ALE" | "MLB" | "AVG" | "ERA" | "W-L" | "SP" | "3B" | "5TH PLACE ALE" | "13TH"
+s01-1 (franchise options global): "GLOBAL" | "CPU" | "API" | "L1" | "R1"
+s01-2 (franchise options player 1): "CPU" | "LINEUPS/ROTATIONS" | "TRAINING"
+s01-3 (franchise options player 1): "CPU" | "REHAB" | "FA" | "FACILITIES" | "MARKETING" | "BANKING"
+s01-4 (standings): "TEAM" | "W" | "L" | "PCT" | "GB" | "RS" | "RA" | "STRK"
+s02-1 (standings): "TEAM" | "W" | "L" | "PCT" | "GB" | "RS" | "RA" | "STRK" | "DIAMONDBACKS"
+s02-2 (stats batting): "PLAYER" | "G" | "AB" | "AVG" | "H" | "R" | "L2" | "R2" | "BLOW UP"
+s02-3 (stats pitching): "PLAYER" | "GP" | "W" | "L" | "ERA" | "GS"
+s02-4 (stats batting): "PLAYER" | "G" | "AB" | "AVG" | "H" | "R"
+s03-1 (league leaders): "AVG" | "H" | "AB" | "HR" | "RBI" | "SB" | "SLG" | "OBP" | "2B" | "3B"
+s03-2 (honors menu): "AWARDS" | "MLB"
+s03-3 (MLB records batting): "GIANTS" | "ICHIRO" | "OAKLAND ATHLETICS" | "CHICAGO CUBS" | "PHILADELPHIA PHILLIES"
+s03-4 (MLB records pitching): "ANAHEIM ANGELS" | "PROVIDENCE GRAYS" | "FRANCISCO RODRIGUEZ"
+s04-1 (batting performance): "CATCHER" | "AVG" | "HR" | "RBI" | "SLG" | "AB" | "H"
+s04-2 (batting performance): "SHORTSTOP"
+s04-3 (batting performance): "ALL"
+s04-4 (player card scouting report): "CATCHER" | "FIELDING"
+s05-1 (player card morale): "CATCHER" | "PLAYING TIME" | "LEAGUE" | "LINEUP" | "TEAM PERF." | "PERSONAL PERF."
+s05-2 (player card contract): "CATCHER" | "1 YEAR(S)" | "NONE" | "430K" | "N/A"
+s05-3 (roster management): "B/T: R/R" | "AVG" | "RBI" | "HR" | "SB" | "POS" | "MLB" | "AAA" | "AA" | "SP" | "RP" | "CP" | "C" | "SS" | "LF" | "CF" | "RF" | "IF" | "OF" | "DL" | "TOT"
+s05-4 (injury report): "SP" | "RP" | "IF" | "OF" | "DL" | "BENCH" | "EMPTY"
+s06-1 (training assignment): "TRAINING AREA"
+s06-2 (coaches): "SHERMAN BUSBY" | "AGG" | "LDR" | "OFF" | "DEF" | "OVR" | "SALARY" | "PO" | "POW" | "CON" | "BR" | "DIS" | "CTRL" | "VEL" | "MECH" | "PICK"
+s06-3 (coaches): same as s06-2
+s06-4 (team management - staff popup): "SCOUTS" | "CANCEL"
+s07-1 (rehab): (none)
+s07-2 (hire scout): "PERRY BEAVER" | "DORSEY NELSON" | "MR." | "SP" | "RP" | "IF" | "OF" | "BEAVER" | "CONNOR" | "RAMOS" | "HAAS"
+s07-3 (player progression): "AGE" | "ALL" | "L2" | "R2"
+s07-4 (player progression): "AGE" | "SP FERNANDEZ"
+s08-1 (player progression): "AGE" | "CP PEDERSON" | "CP MORALES"
+s08-2 (player progression): "CATCHER" | "AGE" | "CONKLIN" | "AVERY"
+s08-3 (player progression): "AGE" | "BYERS" | "GARCIA"
+s08-4 (player progression): "AGE" | "PENN" | "BOSTON"
+s09-1 (player progression): "AGE" | "CARR"
+s09-2 (player progression): "SHORTSTOP" | "AGE"
+s09-3 (player progression): "AGE" | "CAHILL" | "NORRIS"
+s09-4 (player progression): "AGE" | "MASSEY" | "SIMONS" | "TAKAHASHI" | "NYC MOVES TO THE SOUND OF LA" | "FUNERAL PARTY"
+s10-1 (trade proposal): "AVG" | "HR" | "RBI" | "SB" | "FOR" | "NONE" | "OVR"
+s10-2 (regional scouting): "POS" | "AGE" | "NELSON" | "WESTERN US"
+s10-3 (regional scouting): "POS" | "AGE" | "PUGH" | "CENTRAL US"
+s10-4 (regional scouting): "POS" | "AGE" | "LUCERO" | "EASTERN US"
+s11-1 (regional scouting): "POS" | "AGE" | "RUCKER" | "INTERNATIONAL"
+s11-2 (transaction handbook): "TRANSACTION HANDBOOK" | "DFA" | "FA" | "OPTIONS"
+s11-3 (transaction handbook): "TRANSACTION HANDBOOK" | "OPTIONS" | "WAIVERS"
+s11-4 (options player 1): "CPU" | "LINEUPS/ROTATIONS" | "TRAINING"
+s12-1 (my sliders global): "CPU" | "GLOBAL" | "WIND"
+s12-2 (my sliders user): "USER" | "TIMING" | "FOULS"
+s12-3 (my sliders cpu): "CPU" | "TIMING" | "FOULS"
+s12-4 (my sliders cpu): "CPU" | "PICKOFFS"
+s13-1..4 (jukebox, band credits/song titles): "BEAUTIFUL DISASTER" | "100% (FEAT. TONY SUNSHINE)" | "GO OUTSIDE" | "FREE RIDE" | "NYC MOVES TO THE SOUND OF LA" | album/label/member credit lines (proper names)
+s14-1 (jukebox): "FUNERAL PARTY" | "GOLDEN AGE OF KNOWHERE (2010)" | "RCA RECORDS" | song list as above
+s14-2 (jukebox): "THE RASSLE" | "CONGRATULATIONS (EROL ALKAN REMIX)" | "LITTLE SECRETS" | "LET'S GO" | "FADER (ADAM FREELAND REMIX)" | "WILD ONES"
+s14-3 (franchise - warning popup): "CANCEL" | "OK" | "GB"
+s14-4 (home run derby lineup): "R POW" | "R CON" | "L POW" | "L CON" | "1B" | "HR" | "[NONE]" | "L" | "R" | "S"
+s15-1 (stadium select all-star): "PHOENIX" | "1090 FT" | "GRASS"
+s15-2 (stadium options popup): "PHOENIX" | "NIGHT" | "DEFAULT"
+s15-3 (home run derby lineup): "PLAYERS" | "HR" | "RBI" | "R"
+s15-4 (home run derby round): "HR" | "FT"
+s16-1 (HR derby batter): "AVG" | "HR" | "RBI"
+s16-2 (HR derby batter): "AVG" | "HR" | "RBI"
+s16-3 (end game popup): "NO" | "YES"
+s16-4 (team select vs): "VS" | "P1" | "P2" | "ALW" | "NLW" | "6TH" | "7TH" | "5TH" | "2ND" | "4TH" | "25TH" | "OVR"
+s17-1 (team select uniforms): "ROAD" | "VS" | "ALW" | "NLW" | "OVR"
+s17-2 (starting pitcher select): "W-L" | "ERA" | "SP" | "CH" | "SL" | "4SFB" | "12CV" | "2SFB" | "RFB" | "OVR" | "L" | "R"
+s17-3 (pregame lineup): "SS" | "CF" | "CON" | "POW" | "SPD" | "OVR" | "TEX" | "SF" | "LHP" | "RHP"
+s17-4 (stadium select): "AT&T" | "65 FT" | "GRASS" | "TORONTO" | "NATIONALS" | "WASHINGTON" | "METS" | "YANKEES" | "GIANTS"
+s18-1 (stadium options): "NIGHT" | "DEFAULT" | "TORONTO" | "WASHINGTON"
+s18-2 (stadium options): "DAY" | "DEFAULT"
+s18-3 (starting lineups): "SAN FRANCISCO" | "VS" | "SS" | "2B" | "LF" | "3B" | "RF" | "1B" | "C" | "CF" | "P"
+s18-4 (in-game batter intro): "AVG" | "HR" | "RBI" | "SB" | "AL"
+s19-1 (in-game pitching): "TEX" | "SF" | "1ST" | "OUT" | "SL" | "12CV" | "2SFB" | "CH" | "RFB" | "R2"
+s19-2 (in-game pitch): "mph" | "RFB"
+s19-3 (pause menu): "REPLAY" | "OPTIONS" | "SAN FRANC" | "SAN FRANCISCO" | "ENG" | "ERA" | "SO" | "9 MPH" | "SELECT" | "UP/DOWN" | "EXIT" | "1ST"
+s19-4 (tip - check swing): "MLB 11"
+s20-1 (between innings scoreboard): "R" | "H" | "E" | "TEX" | "SF"
+s20-2 (starting lineup overlay): "SAN FRANCISCO"
+s20-3 (pause - global settings): "ON" | "OFF" | "EJECTIONS" | "2ND" | "SAN FRANCISCO"
+s20-4 (pause - 1P settings): "ROOKIE" | "VETERAN" | "ALL-STAR" | "HALL OF FAME" | "LEGEND" | "1P" | "DIFFICULTY" | "API" | "DEFAULT" | "METER" | "NEW" | "AUTO" | "CATCHER" | "MEDIUM"
+s21-1 (pause - 1P settings): "CATCHER" | "MEDIUM" | "ON" | "AUTO" | "VIBRATION"
+s21-2 (pause - user sliders): "USER" | "CONTACT" | "POWER" | "TIMING" | "FOULS"
+s21-3 (pause - options): "OPTIONS" | "PRESENTATIONS" | "AUDIO" | "CONTROLS" | "ENG" | "ERA" | "SO" | "9 MPH"
+s21-4 (pause - quit game): "RESTART" | "QUIT"
+s22-1 (pitcher vs batter): "FOR" | "ERA" | "K" | "S" | "B" | "H/9" | "BB/9" | "K/9" | "ENG" | "CFD" | "STA" | "AVG" | "HR" | "RBI" | "CNR" | "CNL" | "PWR" | "PWL" | "PVIS"
+s22-2 (hitter analysis): "ALL" | "RESULTS"
+s22-3 (hitter analysis): "ALL" | "RESULTS"
+
+=== DISTINCT ===
+FRANCHISE
+CONTINUE
+ROSTERS
+CURRENT
+DEFAULT
+SAVED
+OVR
+AAA
+AA
+GRIZZLIES
+FLYING SQUIRRELS
+P1
+NLW
+MLB
+AVG
+ERA
+W-L
+SP
+1B
+1ST PLACE NLW
+2ND
+TIDES
+BAYSOX
+ALE
+3B
+5TH PLACE ALE
+13TH
+GLOBAL
+CPU
+API
+L1
+R1
+LINEUPS/ROTATIONS
+TRAINING
+REHAB
+FA
+FACILITIES
+MARKETING
+BANKING
+TEAM
+W
+L
+PCT
+GB
+RS
+RA
+STRK
+DIAMONDBACKS
+PLAYER
+G
+AB
+H
+R
+L2
+R2
+BLOW UP
+GP
+GS
+HR
+RBI
+SB
+SLG
+OBP
+2B
+AWARDS
+GIANTS
+ICHIRO
+OAKLAND ATHLETICS
+CHICAGO CUBS
+PHILADELPHIA PHILLIES
+ANAHEIM ANGELS
+PROVIDENCE GRAYS
+FRANCISCO RODRIGUEZ
+CATCHER
+SHORTSTOP
+ALL
+FIELDING
+PLAYING TIME
+LEAGUE
+LINEUP
+TEAM PERF.
+PERSONAL PERF.
+1 YEAR(S)
+NONE
+430K
+N/A
+B/T: R/R
+POS
+RP
+CP
+C
+SS
+LF
+CF
+RF
+IF
+OF
+DL
+TOT
+BENCH
+EMPTY
+TRAINING AREA
+SHERMAN BUSBY
+AGG
+LDR
+OFF
+DEF
+SALARY
+PO
+POW
+CON
+BR
+DIS
+CTRL
+VEL
+MECH
+PICK
+SCOUTS
+CANCEL
+PERRY BEAVER
+DORSEY NELSON
+MR.
+BEAVER
+CONNOR
+RAMOS
+HAAS
+AGE
+SP FERNANDEZ
+CP PEDERSON
+CP MORALES
+CONKLIN
+AVERY
+BYERS
+GARCIA
+PENN
+BOSTON
+CARR
+CAHILL
+NORRIS
+MASSEY
+SIMONS
+TAKAHASHI
+NYC MOVES TO THE SOUND OF LA
+FUNERAL PARTY
+FOR
+NELSON
+WESTERN US
+PUGH
+CENTRAL US
+LUCERO
+EASTERN US
+RUCKER
+INTERNATIONAL
+TRANSACTION HANDBOOK
+DFA
+OPTIONS
+WAIVERS
+WIND
+USER
+TIMING
+FOULS
+PICKOFFS
+BEAUTIFUL DISASTER
+100% (FEAT. TONY SUNSHINE)
+GO OUTSIDE
+FREE RIDE
+GOLDEN AGE OF KNOWHERE (2010)
+RCA RECORDS
+THE RASSLE
+CONGRATULATIONS (EROL ALKAN REMIX)
+LITTLE SECRETS
+LET'S GO
+FADER (ADAM FREELAND REMIX)
+WILD ONES
+OK
+R POW
+R CON
+L POW
+L CON
+[NONE]
+S
+PHOENIX
+1090 FT
+GRASS
+NIGHT
+PLAYERS
+FT
+NO
+YES
+VS
+P2
+ALW
+6TH
+7TH
+5TH
+4TH
+25TH
+ROAD
+CH
+SL
+4SFB
+12CV
+2SFB
+RFB
+SPD
+TEX
+SF
+LHP
+RHP
+AT&T
+65 FT
+TORONTO
+NATIONALS
+WASHINGTON
+METS
+YANKEES
+DAY
+SAN FRANCISCO
+P
+AL
+1ST
+OUT
+mph
+REPLAY
+SAN FRANC
+ENG
+SO
+9 MPH
+SELECT
+UP/DOWN
+EXIT
+MLB 11
+E
+ON
+EJECTIONS
+ROOKIE
+VETERAN
+ALL-STAR
+HALL OF FAME
+LEGEND
+1P
+DIFFICULTY
+METER
+NEW
+AUTO
+MEDIUM
+VIBRATION
+CONTACT
+POWER
+PRESENTATIONS
+AUDIO
+CONTROLS
+RESTART
+QUIT
+K
+B
+H/9
+BB/9
+K/9
+CFD
+STA
+CNR
+CNL
+PWR
+PWL
+PVIS
+RESULTS

@@ -1,0 +1,6101 @@
+[
+{
+"id": 401400,
+"en": "Powerfully strong arm, and deadly accurate, too.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401401,
+"en": "Pq*",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401402,
+"en": "Pr$",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401403,
+"en": "Presentations: ",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401404,
+"en": "Prime",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401405,
+"en": "Pro",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401406,
+"en": "Probably not suited for closing games.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401407,
+"en": "Prone to minor dings. Uncertain to play a full season.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401408,
+"en": "Providence",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401409,
+"en": "Psi",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401410,
+"en": "Purchase Reward",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401411,
+"en": "Pw",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401412,
+"en": "Py",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401413,
+"en": "Q$-H",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401414,
+"en": "Q$H",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401415,
+"en": "Q$P",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401416,
+"en": "Q$d",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401417,
+"en": "Q$p",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401418,
+"en": "Q$t",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401419,
+"en": "Q&p",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401420,
+"en": "Q,J",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401421,
+"en": "Q,v",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401422,
+"en": "QP$",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401423,
+"en": "QP(",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401424,
+"en": "QP@",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401425,
+"en": "QSExit",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401426,
+"en": "QT(",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 401427,
+"en": "QT,",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401428,
+"en": "QT- @",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401429,
+"en": "QUALITY",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401430,
+"en": "Qh",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401431,
+"en": "Qj(",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401432,
+"en": "R$L",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401433,
+"en": "R$P",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 401434,
+"en": "R$t",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401435,
+"en": "R&p",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401436,
+"en": "R&t",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401437,
+"en": "R&x",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401438,
+"en": "R&z",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401439,
+"en": "R,H",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401440,
+"en": "RANKING",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401441,
+"en": "RANKINGS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401442,
+"en": "RBI: ",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401443,
+"en": "REACTION",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401444,
+"en": "READY LEFT FOCUS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401445,
+"en": "READY LEFT FOCUS EX",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401446,
+"en": "READY RIGHT FOCUS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401447,
+"en": "READY RIGHT FOCUS EX",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401448,
+"en": "REASONS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401449,
+"en": "REBUILDING",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401450,
+"en": "RECORDOFF",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401451,
+"en": "RECORDON",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401452,
+"en": "RECORDS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401453,
+"en": "REHABCOM",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401454,
+"en": "REHABCON",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401455,
+"en": "REHABDES",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401456,
+"en": "REHABICON",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401457,
+"en": "REPLAY",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401458,
+"en": "RESTART",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401459,
+"en": "RETIRE",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401460,
+"en": "RETIREMENT",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401461,
+"en": "RETURN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401462,
+"en": "REWARD",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401463,
+"en": "REWARDGOALS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401464,
+"en": "ROOKIE",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401465,
+"en": "ROSTER",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401466,
+"en": "ROSTERTYPE",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401467,
+"en": "ROTATION",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401468,
+"en": "ROUTINE",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401469,
+"en": "RP@",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401470,
+"en": "RSTRMOVS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401471,
+"en": "RUNNER",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401472,
+"en": "RUNNEREARNED",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401473,
+"en": "RUNNERPITCHER",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401474,
+"en": "RUNNERS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401475,
+"en": "RUNSBATTEDIN",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401476,
+"en": "Random",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401477,
+"en": "Rarely sits out games due to injury.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401478,
+"en": "Raw talent is there, needs the opportunity to close.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401479,
+"en": "Ready",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401480,
+"en": "Recently",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401481,
+"en": "Render",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401482,
+"en": "Render Actors",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401483,
+"en": "Render All Shadows",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401484,
+"en": "Replays: ",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401485,
+"en": "Reseeds",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 401486,
+"en": "Rf",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401487,
+"en": "Rh",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401488,
+"en": "Rho",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401489,
+"en": "Rl",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401490,
+"en": "Rp",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401491,
+"en": "Run",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401492,
+"en": "Run on him at your own peril.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401493,
+"en": "Runners fear his arm, though it's not infallible.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401494,
+"en": "Runners run at will on his arm.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401495,
+"en": "Runners think twice before trying to advance.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401496,
+"en": "Rx",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401497,
+"en": "S$D",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 401498,
+"en": "S$H",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401499,
+"en": "S,H",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401500,
+"en": "S,s",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401501,
+"en": "SAC: ",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401502,
+"en": "SAVEQUALIFY",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401503,
+"en": "SAVINGPITCHER",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401504,
+"en": "SB: ",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401505,
+"en": "SCOREBAR",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401506,
+"en": "SCORER",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401507,
+"en": "SCORES",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401508,
+"en": "SCREAM",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401509,
+"en": "SCREENDISSOLVE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401510,
+"en": "SCREWBALL",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401511,
+"en": "SEASECAT",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401512,
+"en": "SEASECIN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401513,
+"en": "SEASON INFORMATION",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401514,
+"en": "SEASON VIEW ROSTER",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401515,
+"en": "SEASONDATE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401516,
+"en": "SEASONSTATSTR",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401517,
+"en": "SEASONSTATVAL",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401518,
+"en": "SEASONTYPE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401519,
+"en": "SEASONYEAR",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401520,
+"en": "SECOND",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401521,
+"en": "SECONDS",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401522,
+"en": "SELECTED",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401523,
+"en": "SELECTION",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401524,
+"en": "SERIES",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401525,
+"en": "SF: ",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401526,
+"en": "SHALLOW",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401527,
+"en": "SHINGUARD",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401528,
+"en": "SHUTOUTS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401529,
+"en": "SIMULATE",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401530,
+"en": "SINKER",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401531,
+"en": "SIXTYTIM",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401532,
+"en": "SKAT queue not initialized",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401533,
+"en": "SKATLOG/",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401534,
+"en": "SKYFLAG",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401535,
+"en": "SL N Div CS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401536,
+"en": "SL S Div CS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401537,
+"en": "SLIDER",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401538,
+"en": "SLIDERS",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401539,
+"en": "SLUGGING",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401540,
+"en": "SLURVE",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401541,
+"en": "SNDPS2/",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401542,
+"en": "SNDPS2D/",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401543,
+"en": "SOCKTYPE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401544,
+"en": "SONGLIST",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401545,
+"en": "SOUNDEFFECTS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401546,
+"en": "SOUNDMAN",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401547,
+"en": "SPECIALTY",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401548,
+"en": "SPEECHENGLISH",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401549,
+"en": "SPEECHJAPANESE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401550,
+"en": "SPLIT-FINGER",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401551,
+"en": "SPLRPOS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401552,
+"en": "SPLRROLE",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401553,
+"en": "SPORTS TICKER A ROLL",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401554,
+"en": "SPORTS TICKER B ROLL",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401555,
+"en": "SPRFPOS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401556,
+"en": "SPRFROLE",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401557,
+"en": "SPRING",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 401558,
+"en": "SS - LF GAP",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401559,
+"en": "ST-(",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401560,
+"en": "STABILIZED",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401561,
+"en": "STADIUMPATTERN",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401562,
+"en": "STADTINX",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401563,
+"en": "STAMINA",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401564,
+"en": "STARTER",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401565,
+"en": "STARTINGPITCHER",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401566,
+"en": "STATTYPE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401567,
+"en": "STATVAL",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401568,
+"en": "STOLENBASES",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401569,
+"en": "STRATEGIES",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401570,
+"en": "STRIDE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401571,
+"en": "STRIKE",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401572,
+"en": "STRIKEOUT",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401573,
+"en": "STRIKES",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401574,
+"en": "STRING",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401575,
+"en": "SUBDESC",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401576,
+"en": "SUBMENU",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401577,
+"en": "SUBSTITUTION",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401578,
+"en": "SUPPORT",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401579,
+"en": "Sacrifice",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401580,
+"en": "SampleID not found in any file split!",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401581,
+"en": "Scaron",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401582,
+"en": "Scene",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401583,
+"en": "Scenes",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401584,
+"en": "Schedule",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401585,
+"en": "Screen Clear",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401586,
+"en": "Screen Dissolve",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401587,
+"en": "Screen Wipe",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401588,
+"en": "Sh",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401589,
+"en": "ShiftL HL",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401590,
+"en": "ShiftL Reset",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401591,
+"en": "ShiftR HL",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401592,
+"en": "ShiftR Reset",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401593,
+"en": "Short Stop",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401594,
+"en": "Shot",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401595,
+"en": "Should avoid the DL all season.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401596,
+"en": "Should be a star closer.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401597,
+"en": "Should only be used in blowouts. If then.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401598,
+"en": "Shutdown",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 401599,
+"en": "Si",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401600,
+"en": "Sigma",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401601,
+"en": "Signed",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401602,
+"en": "Silver",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401603,
+"en": "Simulation Input Handler",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401604,
+"en": "Single",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401605,
+"en": "Situation",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401606,
+"en": "Six",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401607,
+"en": "Size of Header: ",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401608,
+"en": "Size of PackedPres: ",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401609,
+"en": "Sj",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401610,
+"en": "Small",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401611,
+"en": "Small - Hit Azimuth",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 401612,
+"en": "Small - Hit Incline",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 401613,
+"en": "Small - Hit Speed",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 401614,
+"en": "Small - Hit Timing",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 401615,
+"en": "Small - Hit impact pos",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 401616,
+"en": "Small - Hit impact vel",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 401617,
+"en": "So fragile he got hurt just by reading this description of him.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401618,
+"en": "So good he can request a song to play when he enters the 9th.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401619,
+"en": "Somewhat below average arm, but has some surprising zip at times.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401620,
+"en": "Sony EyeToy",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401621,
+"en": "Sony/Logitech EyeToy",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401622,
+"en": "Sony/Namtai EyeToy",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401623,
+"en": "Space",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401624,
+"en": "Spooneybarger",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401625,
+"en": "Sprite",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401626,
+"en": "Star Burst",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401627,
+"en": "Starting ",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401628,
+"en": "Stats",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401629,
+"en": "Step",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401630,
+"en": "Stop your Runner",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401631,
+"en": "Strikeout",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401632,
+"en": "Strikeouts/9",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401633,
+"en": "Strikes",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401634,
+"en": "Strong and durable. An injury is unlikely.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401635,
+"en": "Strong health record makes an injury highly unlikely.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401636,
+"en": "Strong, dependable arm. Can get beat, though.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401637,
+"en": "Stuff, mound presence should make the 9th inning his domain.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401638,
+"en": "Superb stuff, with fiery attitude to boot.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401639,
+"en": "Swing For Power",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401640,
+"en": "Swing/Pitch",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401641,
+"en": "SwingBall / ForBallPitch",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401642,
+"en": "SwingBall / Swing",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401643,
+"en": "Synthetic",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401644,
+"en": "System",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401645,
+"en": "T$D",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401646,
+"en": "T$P",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401647,
+"en": "T&o",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401648,
+"en": "T,l",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401649,
+"en": "TARGET",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401650,
+"en": "TEAMPERF",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401651,
+"en": "TEAMSELECT",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401652,
+"en": "TEMPERATURE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401653,
+"en": "TEXTLINE",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401654,
+"en": "THROWBACK0/AWAY",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401655,
+"en": "THROWBACK0/HOME",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401656,
+"en": "THROWBACK1/AWAY",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401657,
+"en": "THROWBACK1/HOME",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401658,
+"en": "TICKICON",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401659,
+"en": "TICKREAC",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401660,
+"en": "TIMEOFDAYOPTION",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401661,
+"en": "TIMING",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401662,
+"en": "TIPLOADCOUNTER",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401663,
+"en": "TL N Div CS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401664,
+"en": "TL S Div CS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401665,
+"en": "TMADDESC",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401666,
+"en": "TMOODPIC",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401667,
+"en": "TMOODSTR",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401668,
+"en": "TMOODVAL",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401669,
+"en": "TMSTRAT",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401670,
+"en": "TODAYSGAMES",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401671,
+"en": "TOP BANNER",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401672,
+"en": "TOTSPDST",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401673,
+"en": "TOTTMBUD",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401674,
+"en": "TP`",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401675,
+"en": "TRADESLOT",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401676,
+"en": "TRADINGBLOCK",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401677,
+"en": "TRAINCOM",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401678,
+"en": "TRAINCON",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401679,
+"en": "TRAINDES",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401680,
+"en": "TRAINER",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401681,
+"en": "TRAINICON",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401682,
+"en": "TRANSCOM",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401683,
+"en": "TRANSDES",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401684,
+"en": "TRANSICON",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401685,
+"en": "TRIPLES",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401686,
+"en": "TRIVIACOUNTER",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401687,
+"en": "TSExit",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401688,
+"en": "TSReset",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401689,
+"en": "Ta",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401690,
+"en": "Tag on the run radius",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401691,
+"en": "TakePitch / Pitches",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401692,
+"en": "TakePitchStrike / ForStrikePitch",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401693,
+"en": "TakePitchStrike / TakePitch",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401694,
+"en": "Taken",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401695,
+"en": "Tau",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401696,
+"en": "Team Perf.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401697,
+"en": "Teams know they can be aggressive against his arm.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401698,
+"en": "Texture",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401699,
+"en": "Texture flush",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401700,
+"en": "Tf'",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 401701,
+"en": "Th'",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 401702,
+"en": "The average four-year-old has a better throwing arm.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401703,
+"en": "There's no reason to believe he won't make an effective closer.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401704,
+"en": "Theta",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401705,
+"en": "This comes in when the user hits L1/R1.  X brings up the keyboard.",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401706,
+"en": "Three",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401707,
+"en": "Throwback Old",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401708,
+"en": "Ti",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401709,
+"en": "Tier MVP",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401710,
+"en": "Tj",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401711,
+"en": "Tm!",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401712,
+"en": "Tn",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401713,
+"en": "To describe his arm as a 'wet noodle' is a compliment.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401714,
+"en": "Top",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401715,
+"en": "Top-notch talent, top-notch mentality for a closer.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401716,
+"en": "Total",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401717,
+"en": "Tq",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401718,
+"en": "Tr",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401719,
+"en": "Trade Period Tooltip",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401720,
+"en": "Trainer",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401721,
+"en": "Transition",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401722,
+"en": "Transitions: ",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401723,
+"en": "Triple",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401724,
+"en": "Triple-A",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401725,
+"en": "Tu$",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401726,
+"en": "Turning rate",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401727,
+"en": "Tx",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401728,
+"en": "Tz ",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401729,
+"en": "Tz#",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 401730,
+"en": "U$D",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401731,
+"en": "U$L",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401732,
+"en": "U&b",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401733,
+"en": "U&p",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401734,
+"en": "UI System Drawing",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401735,
+"en": "UIICON",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401736,
+"en": "UIScreen",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401737,
+"en": "UITemplate",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401738,
+"en": "UMPIRE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401739,
+"en": "UNINITED",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401740,
+"en": "UNinited",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401741,
+"en": "UP(",
+"max": null,
+"src": [
+"FE",
+"HRDERBY"
+]
+},
+{
+"id": 401742,
+"en": "UP,",
+"max": null,
+"src": [
+"FE",
+"HRDERBY"
+]
+},
+{
+"id": 401743,
+"en": "UP<",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401744,
+"en": "USERGAMEDISPLAY",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401745,
+"en": "UT(",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401746,
+"en": "UT,",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401747,
+"en": "Uacute",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401748,
+"en": "Ucirc",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401749,
+"en": "Ugrave",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401750,
+"en": "Uh",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401751,
+"en": "Ul",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401752,
+"en": "Umpire",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401753,
+"en": "Unable to add entity callback!",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401754,
+"en": "Unable to allocate memory for name!",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401755,
+"en": "Unable to allocate memory for value!",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401756,
+"en": "Unable to allocate string buffer!",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401757,
+"en": "Undefined",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401758,
+"en": "Uninitialized",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401759,
+"en": "Unknown",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401760,
+"en": "Untextured",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401761,
+"en": "Upsilon",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401762,
+"en": "User Accel rate",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401763,
+"en": "User Control Slide",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401764,
+"en": "Uuml",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401765,
+"en": "V$X",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401766,
+"en": "V(P",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401767,
+"en": "V,H",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401768,
+"en": "V,L",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401769,
+"en": "V,h",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401770,
+"en": "VENDOR",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401771,
+"en": "VETERAN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401772,
+"en": "VIBRATION",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401773,
+"en": "VIEWCOACHES",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401774,
+"en": "VIEWEDORG",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401775,
+"en": "VISION",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401776,
+"en": "VSicon",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401777,
+"en": "VVp",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401778,
+"en": "Vary Reaction Time By Attribute",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401779,
+"en": "Very good health record. Not likely to get hurt.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401780,
+"en": "Vgl-0",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401781,
+"en": "Vh",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401782,
+"en": "Vi",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401783,
+"en": "Vj",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401784,
+"en": "Vortex",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401785,
+"en": "Vp",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401786,
+"en": "Vt",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401787,
+"en": "W,H",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401788,
+"en": "WARMTH",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401789,
+"en": "WHISTLE",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401790,
+"en": "WHOSHOT",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401791,
+"en": "WIDESCREENMODE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401792,
+"en": "WINNER",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401793,
+"en": "WINNINGPITCHER",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401794,
+"en": "WINSDAY",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401795,
+"en": "WINSDIV",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401796,
+"en": "WINSEXTRA",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401797,
+"en": "WINSGRASS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401798,
+"en": "WINSHOME",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401799,
+"en": "WINSMONTH",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401800,
+"en": "WINSONE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401801,
+"en": "WP:",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 401802,
+"en": "WPct",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401803,
+"en": "WRISTBAND",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401804,
+"en": "WT,",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401805,
+"en": "WV)",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401806,
+"en": "Walk",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401807,
+"en": "Walkability",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401808,
+"en": "Warning Box",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401809,
+"en": "Week",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401810,
+"en": "Wh",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401811,
+"en": "When he gets hurt - and he will - hope it's an elbow, not a shoulder.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401812,
+"en": "Wicked stuff. Fierce demeanor on the mound. An ace closer.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401813,
+"en": "WildPitch (Opps)",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401814,
+"en": "Will soon be closing games. For a farm league team.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401815,
+"en": "Win",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401816,
+"en": "Winner",
+"max": null,
+"src": [
+"FE",
+"HRDERBY"
+]
+},
+{
+"id": 401817,
+"en": "Winteamselect",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401818,
+"en": "World",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401819,
+"en": "World Post Render",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401820,
+"en": "World Render",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401821,
+"en": "World Update",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401822,
+"en": "World.Jumbotron",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401823,
+"en": "Wrong SKAT file version in control data!",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401824,
+"en": "Wrong SKAT file version in marker data!",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401825,
+"en": "Wrong SKAT file version in sample table data!",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401826,
+"en": "Wrong SKAT file version in skx header!",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401827,
+"en": "Wrong SKAT project version in control data!",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401828,
+"en": "Wrong SKAT project version in marker data!",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401829,
+"en": "Wrong SKAT project version in sample table data!",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401830,
+"en": "Wrong SKAT project version in skx header!",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401831,
+"en": "Wrong pointer size in control data!",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401832,
+"en": "Wrong pointer size in sample table data!",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401833,
+"en": "Wrong pointer size in skx header!",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401834,
+"en": "Wrong signature in control data",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401835,
+"en": "Wrong signature in marker data",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401836,
+"en": "Wrong signature in sample table data",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401837,
+"en": "XFADER",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401838,
+"en": "XP*",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401839,
+"en": "XR*",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401840,
+"en": "XZ!",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401841,
+"en": "Xa",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401842,
+"en": "Xb",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401843,
+"en": "Xc",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401844,
+"en": "Xd",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401845,
+"en": "Xe",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401846,
+"en": "Xf'",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401847,
+"en": "Xg",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401848,
+"en": "Xh",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 401849,
+"en": "Xi",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY",
+"ASSH"
+]
+},
+{
+"id": 401850,
+"en": "Xi*",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401851,
+"en": "Xj",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 401852,
+"en": "Xl'",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401853,
+"en": "Xn'",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401854,
+"en": "Xo",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401855,
+"en": "Xp",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401856,
+"en": "Xq",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401857,
+"en": "Xt",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401858,
+"en": "Xw ",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401859,
+"en": "Xx",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401860,
+"en": "Xz",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401861,
+"en": "Yacute",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401862,
+"en": "Year",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401863,
+"en": "Years",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401864,
+"en": "Yesterday",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401865,
+"en": "Yh ",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401866,
+"en": "Yi",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401867,
+"en": "Yj",
+"max": null,
+"src": [
+"FE",
+"HRDERBY"
+]
+},
+{
+"id": 401868,
+"en": "Yj ",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401869,
+"en": "Yl/",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401870,
+"en": "Yn/",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401871,
+"en": "You're guaranteed to see him on the DL, with his injury rating.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401872,
+"en": "Your manager has been very disappointed with your performance. He's decided to give the closer role to someone else.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401873,
+"en": "Your manager has been very disappointed with your performance. He's decided to move you into the bullpen.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401874,
+"en": "Your manager has been very disappointed with your performance. He's decided to move you to the bench.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401875,
+"en": "Your manager has been very happy with your performance. He's decided to make you the closer.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401876,
+"en": "Your manager has been very happy with your performance. He's decided to move you into a starting role.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401877,
+"en": "Your manager has been very happy with your performance. He's decided to move you into the starting rotation.",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401878,
+"en": "Yuml",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401879,
+"en": "ZBuffer",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401880,
+"en": "Zeta",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401881,
+"en": "Zgl-0",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401882,
+"en": "[DATA]",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401883,
+"en": "[DESC]",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401884,
+"en": "[EMPTY]",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401885,
+"en": "[I AM A BUG - GOAL DESCRIPTION NOT FOUND]",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401886,
+"en": "[LOAD GAME] MEMORY CARD SCREEN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401887,
+"en": "[LOAD PROFILE] MEMORY CARD SCREEN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401888,
+"en": "[LOAD ROSTERS] MEMORY CARD SCREEN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401889,
+"en": "[NONE]",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 401890,
+"en": "[OFFSEASON] VIEWCOACHES",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401891,
+"en": "[PLAYOFF] Accolades Main",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401892,
+"en": "[PLR MNGMT]",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401893,
+"en": "[PLR MNGMT] SELECT PLAYER",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401894,
+"en": "[PLR MNGMT] VIEW ROSTER",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401895,
+"en": "[SAVE CAREER] MEMORY CARD SCREEN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401896,
+"en": "[SAVE FRANCHISE] MEMORY CARD SCREEN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401897,
+"en": "[SAVE ONLINE ROSTERS] MEMORY CARD SCREEN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401898,
+"en": "[SAVE PROFILE] MEMORY CARD SCREEN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401899,
+"en": "[SAVE ROSTERS] MEMORY CARD SCREEN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401900,
+"en": "[SAVE SEASON] MEMORY CARD SCREEN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401901,
+"en": "[gl-0",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401902,
+"en": "^d0^: ^d1^ AVG, ^d2^ HR, ^d3^ RBI",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401903,
+"en": "^j0^Spooneybarger",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401904,
+"en": "^j1^(TITLE MISSING)",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401905,
+"en": "^j1^-- Col 2 --",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401906,
+"en": "^j1^-- Col 3 --",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401907,
+"en": "^j1^-- Col 4 --",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401908,
+"en": "^j1^-- Col 5 --",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401909,
+"en": "^j1^--- Col 2 ---",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401910,
+"en": "^j1^--- Col 3 ---",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401911,
+"en": "^j1^--- Col 4 ---",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401912,
+"en": "^j1^--- Col 5 ---",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401913,
+"en": "^j1^--- Col 6 ---",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401914,
+"en": "^j1^--- Col 7 ---",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401915,
+"en": "^j1^--- Col 8 ---",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401916,
+"en": "^j1^<MESSAGE BODY>",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401917,
+"en": "^j1^<MESSAGE BUTTONS>",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401918,
+"en": "^j1^<MESSAGE TITLE>",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401919,
+"en": "^j1^<Message Body>",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401920,
+"en": "^j1^Advice string.....",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401921,
+"en": "^j1^Highjj Inside",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401922,
+"en": "^j1^MLB 08 The Show",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401923,
+"en": "^j1^PVis",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401924,
+"en": "^j1^Rule Category Name Query",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401925,
+"en": "^j1^SCE/ETHERNET (NETWORK ADAPTOR)",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401926,
+"en": "^j1^Service Cache Stats",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401927,
+"en": "^j1^Sports Connect",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401928,
+"en": "^j1^Very Ejjarly",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401929,
+"en": "^j1^of^n^the",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401930,
+"en": "^j1^vs. ^d0^",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401931,
+"en": "^j2^Cur Entries:",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401932,
+"en": "^j2^MLB 09 (PTS)",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401933,
+"en": "^j2^Spooneybarger",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401934,
+"en": "^j2^Total Expires:",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401935,
+"en": "^j2^Total Hits:",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401936,
+"en": "^j2^Total Misses:",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401937,
+"en": "^j2^Total Writes:",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401938,
+"en": "^j2^Yahoo! IM",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 401939,
+"en": "`PA",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401940,
+"en": "`PD",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401941,
+"en": "`PH",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401942,
+"en": "`PL",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401943,
+"en": "`PP",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401944,
+"en": "`PT",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401945,
+"en": "`PX",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401946,
+"en": "`Pd",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401947,
+"en": "`Pl",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401948,
+"en": "`Pp",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401949,
+"en": "`Pt",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401950,
+"en": "`RD",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401951,
+"en": "`RP",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401952,
+"en": "`RX",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401953,
+"en": "`TA",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401954,
+"en": "`TD",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401955,
+"en": "`TH",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401956,
+"en": "`TL",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401957,
+"en": "`TP",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401958,
+"en": "`TX",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401959,
+"en": "`Td",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401960,
+"en": "`Th",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401961,
+"en": "`Tp",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401962,
+"en": "`Tt",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401963,
+"en": "`Tx",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401964,
+"en": "`VD",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401965,
+"en": "`VH",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401966,
+"en": "`VL",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401967,
+"en": "`VP",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401968,
+"en": "`VT",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 401969,
+"en": "`Vp",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401970,
+"en": "`Vt",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401971,
+"en": "`Xp",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 401972,
+"en": "a 1-2-3 inning",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401973,
+"en": "a ball",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401974,
+"en": "a bean",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401975,
+"en": "a caught stealing",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401976,
+"en": "a double",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401977,
+"en": "a double play",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401978,
+"en": "a hit",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401979,
+"en": "a hit (2)",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401980,
+"en": "a hit (3)",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401981,
+"en": "a hit batter",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401982,
+"en": "a homerun",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401983,
+"en": "a homerun (2)",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401984,
+"en": "a homerun (3)",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401985,
+"en": "a passed ball",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401986,
+"en": "a passed ball (2)",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401987,
+"en": "a pickoff attempt",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401988,
+"en": "a run",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401989,
+"en": "a scoreless inning",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401990,
+"en": "a stikeout",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401991,
+"en": "a stolen base",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401992,
+"en": "a strike",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401993,
+"en": "a strikeout (2)",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401994,
+"en": "a successful pickoff",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401995,
+"en": "a triple",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401996,
+"en": "a triple play",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401997,
+"en": "a walk",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401998,
+"en": "a walk (2)",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 401999,
+"en": "a walk (3)",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402000,
+"en": "a wild pitch",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402001,
+"en": "a wild pitch (2)",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402002,
+"en": "aacute",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402003,
+"en": "abort",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402004,
+"en": "acceleration",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402005,
+"en": "acirc",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402006,
+"en": "acosf",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402007,
+"en": "active",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402008,
+"en": "activetime",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402009,
+"en": "acute",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402010,
+"en": "aelig",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402011,
+"en": "agrave",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402012,
+"en": "alefsym",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402013,
+"en": "allowing go ahead run on base",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402014,
+"en": "allowing go ahead run to score",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402015,
+"en": "allowing the go-ahead run",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402016,
+"en": "allowing the tying run",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402017,
+"en": "alpha",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402018,
+"en": "alphatest",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402019,
+"en": "american",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402020,
+"en": "an error",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402021,
+"en": "an intentional walk",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402022,
+"en": "animations",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402023,
+"en": "animdb=",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402024,
+"en": "animid",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402025,
+"en": "antialias",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402026,
+"en": "aring",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402027,
+"en": "asinf",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402028,
+"en": "asymp",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402029,
+"en": "atexit",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402030,
+"en": "atilde",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402031,
+"en": "auto.hit",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402032,
+"en": "auxtextureset",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402033,
+"en": "awaydugoutloc",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402034,
+"en": "awaydugoutseatleft",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402035,
+"en": "awaydugoutseatright",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402036,
+"en": "awayondeck",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402037,
+"en": "b$-h`",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402038,
+"en": "b$-x",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402039,
+"en": "b$D",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402040,
+"en": "b$P",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402041,
+"en": "b$T",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402042,
+"en": "b$d",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402043,
+"en": "b$g",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402044,
+"en": "b$h",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402045,
+"en": "b$p",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402046,
+"en": "b&D",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402047,
+"en": "b&H",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402048,
+"en": "b&P",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402049,
+"en": "b&T",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402050,
+"en": "b&X",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402051,
+"en": "b&d",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402052,
+"en": "b&p",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402053,
+"en": "b&t",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402054,
+"en": "b&v",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402055,
+"en": "b(A",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402056,
+"en": "b(B",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402057,
+"en": "b(C",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402058,
+"en": "b(D",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402059,
+"en": "b(E",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402060,
+"en": "b(J",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 402061,
+"en": "b(K",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402062,
+"en": "b(R",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402063,
+"en": "b(V",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402064,
+"en": "b(Y",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402065,
+"en": "b(d",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402066,
+"en": "b(f",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 402067,
+"en": "b(g",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402068,
+"en": "b(h",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402069,
+"en": "b(r",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402070,
+"en": "b(v",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402071,
+"en": "b(w",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 402072,
+"en": "b*C",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402073,
+"en": "b*G",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402074,
+"en": "b*I",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402075,
+"en": "b*Q",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402076,
+"en": "b*V",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402077,
+"en": "b*j",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402078,
+"en": "b*x",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402079,
+"en": "b,A",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402080,
+"en": "b,B",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402081,
+"en": "b,C",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402082,
+"en": "b,E",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402083,
+"en": "b,F",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402084,
+"en": "b,G",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402085,
+"en": "b,H",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402086,
+"en": "b,K",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402087,
+"en": "b,L",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402088,
+"en": "b,M",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402089,
+"en": "b,N",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402090,
+"en": "b,O",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402091,
+"en": "b,P",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 402092,
+"en": "b,Q",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402093,
+"en": "b,R",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402094,
+"en": "b,S",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402095,
+"en": "b,T",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402096,
+"en": "b,U",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 402097,
+"en": "b,W",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 402098,
+"en": "b,X",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 402099,
+"en": "b,Y",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+}
+]

@@ -1,0 +1,2508 @@
+[
+{
+"id": 500000,
+"en": " NONE",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500001,
+"en": " TEAM",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500002,
+"en": " YEAR",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500003,
+"en": "AAA",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 500004,
+"en": "AAA ",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500005,
+"en": "ACC",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500006,
+"en": "AGE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500007,
+"en": "AGG",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500008,
+"en": "ALC",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500009,
+"en": "ALCS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500010,
+"en": "ALDS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500011,
+"en": "ALE",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500012,
+"en": "ALL",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500013,
+"en": "ALW",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500014,
+"en": "API",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 500015,
+"en": "APR",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500016,
+"en": "ARM",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500017,
+"en": "ARROW",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500018,
+"en": "ARZ",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500019,
+"en": "ATL",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500020,
+"en": "ATTR",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 500021,
+"en": "AUG",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500022,
+"en": "AVG",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500023,
+"en": "AWARD",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500024,
+"en": "AWAY",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500025,
+"en": "AWR",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500026,
+"en": "BAA",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 500027,
+"en": "BAL",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500028,
+"en": "BALLS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500029,
+"en": "BEARD",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500030,
+"en": "BIO",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500031,
+"en": "BOS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500032,
+"en": "BRA",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500033,
+"en": "BREAK",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500034,
+"en": "BROW",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500035,
+"en": "BUG",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500036,
+"en": "BUNT",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500037,
+"en": "CAP",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500038,
+"en": "CAPS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500039,
+"en": "CHANT",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500040,
+"en": "CIN",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500041,
+"en": "CIR",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500042,
+"en": "CLE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500043,
+"en": "COACH",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500044,
+"en": "COL",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500045,
+"en": "COLOR",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500046,
+"en": "CONT",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500047,
+"en": "COUNT",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500048,
+"en": "CPU",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 500049,
+"en": "CRO",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500050,
+"en": "CROWD",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500051,
+"en": "CURVE",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500052,
+"en": "CUT",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500053,
+"en": "DATA",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500054,
+"en": "DAY",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500055,
+"en": "DBUNT",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500056,
+"en": "DEC",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500057,
+"en": "DEL",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500058,
+"en": "DESC",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500059,
+"en": "DET",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500060,
+"en": "DIS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500061,
+"en": "DIV",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500062,
+"en": "DRAFT",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500063,
+"en": "DUEUP",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500064,
+"en": "DUR",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500065,
+"en": "EAA",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500066,
+"en": "EEPH",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500067,
+"en": "ELCS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500068,
+"en": "ELE",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500069,
+"en": "ELW",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500070,
+"en": "EMPTY",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500071,
+"en": "ENG",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500072,
+"en": "EPL",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500073,
+"en": "ERA",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500074,
+"en": "ERR",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500075,
+"en": "ESC",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500076,
+"en": "ETCAP",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500077,
+"en": "ETH",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500078,
+"en": "ETPRE",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500079,
+"en": "EXIT",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500080,
+"en": "EYES",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500081,
+"en": "FADER",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500082,
+"en": "FEB",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500083,
+"en": "FEP",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500084,
+"en": "FIELD",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500085,
+"en": "FIRST",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500086,
+"en": "FIVE",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500087,
+"en": "FLA",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500088,
+"en": "FLAGS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500089,
+"en": "FOR",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500090,
+"en": "FOULS",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500091,
+"en": "FOUR",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500092,
+"en": "FRAN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500093,
+"en": "GBAT",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500094,
+"en": "GIDP",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500095,
+"en": "GOAL",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 500096,
+"en": "GOAT",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500097,
+"en": "GRASS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500098,
+"en": "GRI",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500099,
+"en": "GYRO",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500100,
+"en": "HAIR",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500101,
+"en": "HARD",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500102,
+"en": "HELP",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500103,
+"en": "HIT",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500104,
+"en": "HITS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500105,
+"en": "HOU",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500106,
+"en": "HOUR",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500107,
+"en": "HUMAN",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500108,
+"en": "IBB",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 500109,
+"en": "ICON",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500110,
+"en": "IGHT",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500111,
+"en": "ILCS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500112,
+"en": "ILN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500113,
+"en": "ILS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500114,
+"en": "ILW",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500115,
+"en": "ILWCS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500116,
+"en": "IMAGE",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500117,
+"en": "INDEX",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500118,
+"en": "INF",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500119,
+"en": "INN",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500120,
+"en": "INTRO",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500121,
+"en": "JAN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500122,
+"en": "JUL",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500123,
+"en": "JUN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500124,
+"en": "KNOW",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500125,
+"en": "LAA",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500126,
+"en": "LAD",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500127,
+"en": "LOAN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500128,
+"en": "LOGO",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500129,
+"en": "MAIN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500130,
+"en": "MAR",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500131,
+"en": "MAY",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500132,
+"en": "MECH",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500133,
+"en": "MIL",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500134,
+"en": "MIN",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500135,
+"en": "MODE",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500136,
+"en": "MOUND",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500137,
+"en": "MOV",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500138,
+"en": "MOVIE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500139,
+"en": "MUG",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500140,
+"en": "MUSIC",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500141,
+"en": "NLE",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500142,
+"en": "NONE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500143,
+"en": "NOSE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500144,
+"en": "NOV",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500145,
+"en": "NULL",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500146,
+"en": "NYM",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500147,
+"en": "NYY",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500148,
+"en": "OAK",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500149,
+"en": "OBP",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500150,
+"en": "OCT",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500151,
+"en": "OFF",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500152,
+"en": "ONE",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500153,
+"en": "OPS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500154,
+"en": "ORDER",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500155,
+"en": "ORG",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500156,
+"en": "OSD",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500157,
+"en": "OTHER",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500158,
+"en": "OVR",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500159,
+"en": "PALM",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500160,
+"en": "PCAN",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500161,
+"en": "PCAS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500162,
+"en": "PHI",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500163,
+"en": "PICK",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500164,
+"en": "PICKS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500165,
+"en": "PITCH",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500166,
+"en": "POG",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500167,
+"en": "POL",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500168,
+"en": "POP",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500169,
+"en": "POPUP",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500170,
+"en": "POS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500171,
+"en": "POT",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500172,
+"en": "POWER",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500173,
+"en": "PPLUS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500174,
+"en": "PRES",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500175,
+"en": "PRICE",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500176,
+"en": "PRO",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500177,
+"en": "PROMO",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500178,
+"en": "QUIT",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500179,
+"en": "RATIO",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500180,
+"en": "RBI",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500181,
+"en": "REAC",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500182,
+"en": "READY",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500183,
+"en": "RISP",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500184,
+"en": "ROBC",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500185,
+"en": "ROLE",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500186,
+"en": "ROUND",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500187,
+"en": "RUNS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500188,
+"en": "SAC",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 500189,
+"en": "SAFE",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500190,
+"en": "SCORE",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500191,
+"en": "SEA",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500192,
+"en": "SEP",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500193,
+"en": "SEVEN",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500194,
+"en": "SHI",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500195,
+"en": "SHO",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500196,
+"en": "SHOT",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500197,
+"en": "SIT",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500198,
+"en": "SIX",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500199,
+"en": "SIZE",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500200,
+"en": "SKAT",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500201,
+"en": "SKIP",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500202,
+"en": "SLINK",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500203,
+"en": "SOCKS",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500204,
+"en": "SPEED",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500205,
+"en": "SPO",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500206,
+"en": "STAT",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 500207,
+"en": "STATS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500208,
+"en": "STRAT",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500209,
+"en": "SUB",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500210,
+"en": "SWUNG",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500211,
+"en": "TAB",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500212,
+"en": "TAKEN",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500213,
+"en": "TEMP",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500214,
+"en": "TEX",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500215,
+"en": "TEXT",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500216,
+"en": "THIRD",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500217,
+"en": "THORN",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500218,
+"en": "THREE",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500219,
+"en": "TIME",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500220,
+"en": "TITLE",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500221,
+"en": "TOD",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500222,
+"en": "TOP",
+"max": null,
+"src": [
+"FE",
+"GAME"
+]
+},
+{
+"id": 500223,
+"en": "TOR",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500224,
+"en": "TPA",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500225,
+"en": "TRADE",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500226,
+"en": "TWO",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500227,
+"en": "UMP",
+"max": null,
+"src": [
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500228,
+"en": "USER",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500229,
+"en": "USES",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500230,
+"en": "VALID",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500231,
+"en": "VEL",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500232,
+"en": "VIP",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500233,
+"en": "VIS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500234,
+"en": "VOD",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500235,
+"en": "VOTES",
+"max": null,
+"src": [
+"FE"
+]
+},
+{
+"id": 500236,
+"en": "WAS",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500237,
+"en": "WHIP",
+"max": null,
+"src": [
+"FE",
+"GAME",
+"HRDERBY"
+]
+},
+{
+"id": 500238,
+"en": "WIND",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500239,
+"en": "XAXIS",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 500240,
+"en": "YAXIS",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 500241,
+"en": "YELLS",
+"max": null,
+"src": [
+"GAME"
+]
+},
+{
+"id": 500242,
+"en": "ZAXIS",
+"max": null,
+"src": [
+"HRDERBY"
+]
+},
+{
+"id": 500243,
+"en": "^j0^AVG",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500244,
+"en": "^j0^RBI",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500245,
+"en": "^j1^AGE",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500246,
+"en": "^j1^ALCS",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500247,
+"en": "^j1^ALDS",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500248,
+"en": "^j1^ARM",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500249,
+"en": "^j1^AVG",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500250,
+"en": "^j1^BAA",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500251,
+"en": "^j1^BRA",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500252,
+"en": "^j1^CIR",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500253,
+"en": "^j1^CON",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500254,
+"en": "^j1^CUT",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500255,
+"en": "^j1^ENG",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500256,
+"en": "^j1^ENTER",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500257,
+"en": "^j1^ERA",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500258,
+"en": "^j1^ESC",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500259,
+"en": "^j1^INT",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500260,
+"en": "^j1^OAK",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500261,
+"en": "^j1^OVR",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500262,
+"en": "^j1^POS",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500263,
+"en": "^j1^RBI",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500264,
+"en": "^j1^ROT",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500265,
+"en": "^j1^SHIFT ^b7^",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500266,
+"en": "^j1^SPACE",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500267,
+"en": "^j1^STA",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500268,
+"en": "^j1^TAB",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500269,
+"en": "^j1^TOT",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500270,
+"en": "^j1^WAS",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500271,
+"en": "^j1^^b7^ SHIFT",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500272,
+"en": "^j1^^j1^AGE",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500273,
+"en": "^j1^^j1^OVR",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500274,
+"en": "^j1^^j1^POT",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500275,
+"en": "^j2^AAA",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500276,
+"en": "^j2^ACC",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500277,
+"en": "^j2^AGE",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500278,
+"en": "^j2^AOL",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500279,
+"en": "^j2^AVG",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500280,
+"en": "^j2^ERA",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500281,
+"en": "^j2^ICQ",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500282,
+"en": "^j2^OVR",
+"max": null,
+"src": [
+"ASSH"
+]
+},
+{
+"id": 500283,
+"en": "^j2^STA",
+"max": null,
+"src": [
+"ASSH"
+]
+}
+]
