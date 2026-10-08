@@ -1,0 +1,16 @@
+gametitle=MLB 11 - The Show (NTSC-U) [SCUS-97657] (한글패치 포함 공용)
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=MLB11 한글패치
+description=게임 내장 와이드 카메라(Hor+, 가로 시야 4/3배)를 항상 켭니다. 모듈 코드가 원본과 일치할 때만 적용됩니다.
+
+// GAME.REL (경기·프랜차이즈 경기) — Size__6Camera 의 'beqz v0' (와이드 플래그 검사) 를 nop
+patch=1,EE,E0023FAA,extended,006DB468
+patch=1,EE,E0010374,extended,006DB45C
+patch=1,EE,206DB460,extended,00000000
+
+// HRDERBY.REL (홈런더비) — 같은 코드, 같은 적재 위치 가정(일치할 때만 적용)
+patch=1,EE,E0023FAA,extended,006E9DB0
+patch=1,EE,E0010374,extended,006E9DA4
+patch=1,EE,206E9DA8,extended,00000000

@@ -43,3 +43,8 @@ xdelta3 -d -s "MLB 11 - The Show (USA).iso" MLB11_PS2_KO_v1.2.xdelta "MLB 11 - T
 PCSX2 에서 메인 메뉴·옵션·팀/선발/구장 선택·경기(시범·프랜차이즈)·라인업 화면을 확인했고, 경기 중 로드된 선수 머리 모델이 원본과 같음을 메모리에서 확인했습니다. 로드 투 더 쇼와 프랜차이즈의 모든 하위 화면을 일일이 확인하지는 못했습니다.
 
 🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+## 16:9 와이드 (PCSX2)
+`widescreen/SCUS-97657_7892EFCF.pnach` 를 PCSX2 의 `patches` 폴더에 넣고, 게임 속성(또는 설정) → 패치에서 **Widescreen 16:9** 를 켭니다.
+게임에 내장된 와이드 카메라(Hor+, 가로 시야 확장)를 항상 켜는 방식이며, 메모리의 원래 명령어가 일치할 때만 적용됩니다. 한글패치판·원본 모두 사용 가능.
+메뉴·HUD 같은 2D 화면은 가로로 늘어나 보입니다.
