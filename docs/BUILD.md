@@ -10,3 +10,7 @@
 검사: `python tools/checktr.py <묶음>`(번역 형식), `python tools/checknames.py NN`(이름), `python tools/audit.py`(미번역 집계).
 검증용 에뮬레이터 조작: `tools/emu.py`, `tools/headcheck.py`(로드된 머리 모델 목록), `tools/franchise.py`.
 표시 훅 단위 검사: `python tools/hooktest.py`(unicorn 으로 Parse/GetQueryValue 훅 실행).
+
+## 릴리즈 규칙
+- 매 릴리즈에 `MLB11_PS2_KO_vX.Y.xdelta` 와 `widescreen/SCUS-97657_7892EFCF.pnach` 를 함께 첨부합니다.
+- 릴리즈 노트 끝에 `docs/RELEASE_WIDESCREEN.md` 의 와이드 패치 적용 방법을 붙입니다.
