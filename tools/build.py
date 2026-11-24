@@ -129,6 +129,8 @@ def main():
                 TITLES = {'Warning', 'WARNING', 'Confirm', 'CONFIRM', 'Notice', 'NOTICE', 'Error', 'ERROR', 'OK', 'YES', 'NO', 'CANCEL', 'Substitution'}
                 SAFE = set(json.load(open(os.path.join(ROOT, 'translation', 'rel_safe_words.json'), encoding='utf-8')))
                 def allow(a, t, m=m):
+                    if m == 'FE' and os.environ.get('KO_RNG') and not (int(os.environ['KO_RNG'].split('-')[0], 16) <= a < int(os.environ['KO_RNG'].split('-')[1], 16)): return False
+                    if m == 'FE' and 0x2fa000 <= a < 0x2fc000: return False   # 유니폼 종류 표(Home/Alternate/Throwback/Warmup/Road): 유니폼 로더가 원문으로 비교
                     if t in SAFE and m == 'FE': return True
                     if ' ' in t.strip() or '%' in t: return True          # 문장형·printf
                     if t in TITLES: return True                           # 팝업 제목
@@ -145,7 +147,7 @@ def main():
                 DBGF = _re.compile(r'%.*(\n$|::)|::.*%')
                 FILEISH = _re.compile(r'[/\\]|\.[a-z]{2,3}\b')
                 for _a, _t, _r in _rs.strings(os.path.join(ROOT, 'extract', m + '.REL'))[4]:
-                    if len(_t) >= 16 and (DBG.search(_t) and '%' not in _t or DBGF.search(_t) and not FILEISH.search(_t)): em[_t] = b' '
+                    if len(_t) >= 16 and ' ' in _t.strip() and (DBG.search(_t) and '%' not in _t or DBGF.search(_t) and not FILEISH.search(_t)): em[_t] = b' '
                 disp_all = {k: v for k, v in em_all.items() if len(k) <= 80 and (k in modstr or k in ASSH_LEFT)}
                 # 표식·대소문자 정규화: '^j1^REPLAY', '^c4^REPLAY', 'UP/DOWN' 처럼 핵심이 번역된 문자열도 같은 번역으로
                 FUNCW = {'to', 'or', 'and', 'in', 'of', 'at', 'on', 'by', 'vs', 'a', 'an', 'the', 'for', 'with', 'from', 'is'}
@@ -194,23 +196,25 @@ def main():
                 _, st0 = relinject.inject(p, em, allow=allow, reserve=0)          # 데이터로 번역될 것 확정
                 disp_all = {k: v for k, v in disp_all.items() if k not in st0['done']}
                 disp = {k.encode('latin1'): v for k, v in disp_all.items()}
-                RES = KBD + disphook.code_size()
+                RES = 0 if (os.environ.get('KO_NOHOOK') and os.environ.get('KO_NOKBD')) else KBD + disphook.code_size()
                 p, st = relinject.inject(p, em, allow=allow, reserve=RES)
                 if not os.environ.get('KO_NOHOOK'):
                     if m in disphook.PARSE:
                         p = bytearray(p); FREE = st['free']
                         def place(b, p=p, FREE=FREE):
-                            al = 4 if (len(b) % 8 == 0 and not any(b)) else 1      # 버킷 표 자리(0으로 채운 8바이트 단위)는 4바이트 정렬
+                            al = 4 if (len(b) % 4 == 0 and not any(b)) else 1      # 버킷 표 자리(0으로 채운 8바이트 단위)는 4바이트 정렬
                             for f in FREE:
                                 s0 = (f[0] + al - 1) & ~(al - 1)
                                 if f[1] - s0 >= len(b):
                                     p[s0:s0 + len(b)] = b; f[0] = s0 + len(b); return s0
                             return None
+                        b2 = place(bytes(disphook.query_size()))           # 동적 토큰 값 훅(첫 블롭 표 공유)
+                        assert b2 is not None and b2 % 4 == 0
                         cap = sum(f[1] - f[0] for f in FREE) * 0.85 - 16 * 8
                         sel = {}; used = 0; kos = set()
                         MODB = {x.encode('latin1') for x in modstr}
                         for k in sorted(disp, key=lambda k: (0 if k in PRIO else 1 if (k in MODB or k in TEAMK) else 2, len(k), k)):          # 이 모듈 문자열 → 짧은 UI 문구 우선
-                            c = (0 if disp[k] in kos else len(disp[k]) + 1) + 8
+                            c = (0 if disp[k] in kos else len(disp[k]) + 1) + 12
                             if used + c > cap: continue
                             sel[k] = disp[k]; used += c; kos.add(disp[k])
                         json.dump({k.decode('latin1'): tr.dec(v) if hasattr(tr, 'dec') else v.hex() for k, v in sel.items()},
@@ -219,8 +223,6 @@ def main():
                         hb, entry, nent = disphook.build(st['reserved'] + KBD, disphook.PARSE[m], sel, place, write)
                         assert KBD + len(hb) <= RES, (len(hb), RES)
                         p[st['reserved'] + KBD:st['reserved'] + KBD + len(hb)] = hb
-                        b2 = place(bytes(disphook.query_size()))           # 동적 토큰 값 훅(첫 블롭 표 공유)
-                        assert b2 is not None and b2 % 4 == 0
                         q = disphook.build_query(b2, st['reserved'] + KBD, disphook.QUERY_FN + disphook.DELTA[m])
                         p[b2:b2 + len(q)] = q
                         p = disphook.patch_calls(bytes(p), disphook.PARSE[m], entry)
@@ -233,6 +235,7 @@ def main():
                     p = kbd.patch_relocs(bytes(p), ins_a, del_a)
                     log('keyboard blob', hex(st['reserved']), len(blob))
                 log(m, 'REL strings', {k: v for k, v in st.items() if k not in ('kept_list', 'done', 'extra')})
+                json.dump(sorted(map(str, st['done'])), open(os.path.join(ROOT, 'work', f'rel_done_{m}.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
                 json.dump(st['kept_list'], open(os.path.join(ROOT, 'work', f'rel_kept_{m}.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
             assert len(p) == len(d)
             f.seek(l * SEC); f.write(p)

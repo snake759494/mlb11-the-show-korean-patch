@@ -2,7 +2,7 @@
 사용자 PCSX2 설정은 건드리지 않는다.  키: ○=L ✕=K △=I □=J START=Return, 방향키."""
 import ctypes, ctypes.wintypes as W, os, subprocess, time, glob, zipfile, sys
 EMU = os.environ.get('MLB_EMU', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'pcsx2'))
-EXE = os.path.join(EMU, 'pcsx2-mlb.exe')   # 다른 세션의 pcsx2-qt 와 구분
+EXE = os.path.join(EMU, 'pcsx2-mlb11.exe')   # 다른 세션의 pcsx2-qt 와 구분
 u32 = ctypes.windll.user32; g32 = ctypes.windll.gdi32
 VK = {'L': 0x4C, 'K': 0x4B, 'I': 0x49, 'J': 0x4A, 'Q': 0x51, 'E': 0x45, '1': 0x31, '3': 0x33,
       'Return': 0x0D, 'Backspace': 0x08, 'Up': 0x26, 'Down': 0x28, 'Left': 0x25, 'Right': 0x27,
@@ -15,11 +15,11 @@ def start(iso, extra=()):
     return subprocess.Popen([EXE, '-fastboot', *extra, '--', iso], cwd=EMU)
 
 def stop():
-    subprocess.run(['taskkill', '/f', '/im', 'pcsx2-mlb.exe'], capture_output=True)
+    subprocess.run(['taskkill', '/f', '/im', 'pcsx2-mlb11.exe'], capture_output=True)
     time.sleep(1)
 
 def _mypids():
-    r = subprocess.run(['tasklist', '/fi', 'imagename eq pcsx2-mlb.exe', '/fo', 'csv', '/nh'], capture_output=True, text=True)
+    r = subprocess.run(['tasklist', '/fi', 'imagename eq pcsx2-mlb11.exe', '/fo', 'csv', '/nh'], capture_output=True, text=True)
     return {int(l.split('","')[1]) for l in r.stdout.splitlines() if l.startswith('"')}
 
 def _windows():

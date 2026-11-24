@@ -23,6 +23,11 @@ def load_map():
         for k, v in json.load(open(fp, encoding='utf-8')).items():
             if v is None: m.pop(k, None)
             else: m[k] = v
+    # 영어 유지(능력치·기록 약어, 팀 약어, 포지션 전체 이름): 표식을 뗀 핵심이 일치하면(대소문자 무시) 번역 제거
+    keep = {x.lower() for x in json.load(open(os.path.join(TR, 'keep_en.json'), encoding='utf-8'))}
+    for k in [k for k in m if re.sub(r'(\^[a-z]\d*\^)', '', k).strip().lower() in keep]: del m[k]
+    for k, v in m.items():
+        if '하루이틀' in v or '하루 이틀' in v: m[k] = v.replace('하루 이틀', '1~2일').replace('하루이틀', '1~2일')
     return m
 def load_names():
     nm = {}

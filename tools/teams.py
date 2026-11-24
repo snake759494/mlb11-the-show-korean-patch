@@ -33,11 +33,16 @@ def _recs(d, T, enc, p, n, stride):
         r = p + stride * k
         for off, size in ((0, 12), (12, 8), (20, 12), (32, 8)):
             o = r + off; e = d.find(b'\0', o, o + size)
+            if e < 0: e = o + size              # 칸을 꽉 채운 이름(Philadelphia·Diamondbacks, 잘린 San Francisc)도 처리
             if e <= o: continue
             s = d[o:e].decode('latin1')
+            if s not in T and e == o + size:
+                cand = [k for k in T if k.startswith(s)]
+                if len(cand) == 1: s = cand[0]
             full = None
             if size == 8:   # 약칭: 같은 레코드의 전체 이름에서
                 fo = r + (0 if off == 12 else 20); fe = d.find(b'\0', fo, fo + 12)
+                if fe < 0: fe = fo + 12
                 full = d[fo:fe].decode('latin1')
             v = ko(T, full or s, size - 1)
             if not v: continue

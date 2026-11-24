@@ -4,7 +4,7 @@ from unicorn import *
 from unicorn.mips_const import *
 import disphook
 MB = 0x100000; BLOB = 0x300000; PARSE = 0x200000; RET = 0x700000
-ent = {b'Rookie': b'ROOKIE_KO', b'On': b'ON_KO', b'Rehab': b'REHAB_KO', b'^j1^OPTIONS': b'OPT_KO'}
+ent = {b'No': b'NO_KO', b'Rookie': b'ROOKIE_KO', b'On': b'ON_KO', b'Rehab': b'REHAB_KO', b'^j1^OPTIONS': b'OPT_KO'}
 for i in range(3000): ent[f'word{i}'.encode()] = f'ko{i}'.encode()
 POOL = [0x400000]
 STORE = {}
@@ -27,7 +27,7 @@ def run(s):
     v0 = mu.reg_read(UC_MIPS_REG_V0)
     ok = all(mu.reg_read(r) == v for r, v in regs.items()) and mu.reg_read(UC_MIPS_REG_SP) == 0x900000
     b = bytes(mu.mem_read(v0, 32)); return b[:b.index(0)], ok
-for s in (b'Rookie', b'On', b'Rehab', b'^j1^OPTIONS', b'Rookies', b'Ro', b'Hello', b'word123', b'word2999', b'word3000', b''):
+for s in (b'P1', b'No', b'Rookie', b'On', b'Rehab', b'^j1^OPTIONS', b'Rookies', b'Ro', b'Hello', b'word123', b'word2999', b'word3000', b''):
     print(s, run(s))
 
 # ---- GetQueryValue 감싸기 시험 ----
@@ -40,4 +40,4 @@ def runq(s):
     mu.emu_start(MB + B2, RET, count=100000)
     v0 = mu.reg_read(UC_MIPS_REG_V0); b = bytes(mu.mem_read(v0, 32))
     return b[:b.index(0)], mu.reg_read(UC_MIPS_REG_SP) == 0x900000
-for s in (b'Rookie', b'Hello', b'word5', b''): print('Q', s, runq(s))
+for s in (b'P1', b'No', b'Rookie', b'Hello', b'word5', b''): print('Q', s, runq(s))

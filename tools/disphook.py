@@ -28,6 +28,7 @@ def sll(rd, rt, sa): return Rr('zero', rt, rd, sa, 0)
 def srl(rd, rt, sa): return Rr('zero', rt, rd, sa, 2)
 def sra(rd, rt, sa): return Rr('zero', rt, rd, sa, 3)
 def and_(rd, rs, rt): return Rr(rs, rt, rd, 0, 0x24)
+def or_(rd, rs, rt): return Rr(rs, rt, rd, 0, 0x25)
 def move(rd, rs): return addu(rd, rs, 'zero')
 def jr(rs): return Rr(rs, 'zero', 'zero', 0, 8)
 NOP = 0
@@ -35,6 +36,11 @@ def h31(b):
     h = 0
     for c in b[:200]: h = (h * 31 + c) & 0xffffffff
     return h
+def key2(b):
+    """두 번째 열쇠: h*131+c 하위 24비트 | 길이<<24 (첫 해시와 함께 비교해 우연 일치 배제)"""
+    h = 0
+    for c in b[:200]: h = (h * 131 + c) & 0xffffffff
+    return (h & 0xffffff) | (min(len(b), 200) << 24)
 def select(entries):
     """충돌(같은 해시) 항목 제외 후 정렬된 (해시, 영문, 한글) 목록."""
     rows = [(h31(en), en, ko) for en, ko in entries.items() if en and len(en) <= 200]
@@ -66,15 +72,17 @@ def _code(blob_addr, parse_addr, mode='parse', base_addr=None, dir_off_ext=None)
         fix_pc = len(code) - 4
     B(4, 'a0', 'zero', 'go')
     # 해시(v0)·길이(v1)
-    code += [move('t4', 'a0'), move('v0', 'zero'), addiu('t7', 'zero', 200)]
+    code += [move('t4', 'a0'), move('v0', 'zero'), move('v1', 'zero'), addiu('t7', 'zero', 200)]
     lab('hl')
     code += [lbu('t5', 0, 't4')]
     B(4, 't5', 'zero', 'hd')
-    code += [sll('t6', 'v0', 5), subu('v0', 't6', 'v0'), addu('v0', 'v0', 't5'), addiu('t4', 't4', 1), addiu('t7', 't7', -1)]
+    code += [sll('t6', 'v0', 5), subu('v0', 't6', 'v0'), addu('v0', 'v0', 't5'),                       # v0 = h*31+c
+             sll('t6', 'v1', 7), addu('t6', 't6', 'v1'), sll('v1', 'v1', 1), addu('v1', 'v1', 't6'), addu('v1', 'v1', 't5'),   # v1 = h*131+c
+             addiu('t4', 't4', 1), addiu('t7', 't7', -1)]
     B(7, 't7', 'zero', 'hl')
     B(4, 'zero', 'zero', 'go')
     lab('hd')
-    code += [subu('v1', 't4', 'a0')]
+    code += [subu('t6', 't4', 'a0'), sll('v1', 'v1', 8), srl('v1', 'v1', 8), sll('t6', 't6', 24), or_('v1', 'v1', 't6')]   # v1 = 둘째 열쇠
     # 버킷: t8 = 버킷 표 주소, t6 = 항목 수
     code += [srl('t7', 'v0', 28), sll('t7', 't7', 3), addu('t7', 't7', 't9'), None, None]   # lw t8, DIR(t7); lw t6, DIR+4(t7)
     fix_dir = len(code) - 2
@@ -82,7 +90,7 @@ def _code(blob_addr, parse_addr, mode='parse', base_addr=None, dir_off_ext=None)
     lab('bs')
     code += [subu('t7', 't6', 't5')]
     B(6, 't7', 'zero', 'go')                                                  # blez → 없음
-    code += [addu('t7', 't5', 't6'), srl('t7', 't7', 1), sll('t4', 't7', 3), addu('t4', 't4', 't8'), lw('at', 0, 't4')]
+    code += [addu('t7', 't5', 't6'), srl('t7', 't7', 1), sll('t4', 't7', 3), sll('at', 't7', 2), addu('t4', 't4', 'at'), addu('t4', 't4', 't8'), lw('at', 0, 't4')]   # 항목 12바이트
     B(4, 'at', 'v0', 'eq')
     code += [sltu('at', 'at', 'v0')]
     B(4, 'at', 'zero', 'left')
@@ -90,9 +98,9 @@ def _code(blob_addr, parse_addr, mode='parse', base_addr=None, dir_off_ext=None)
     lab('left')
     B(4, 'zero', 'zero', 'bs', move('t6', 't7'))
     lab('eq')
-    code += [lw('at', 4, 't4'), srl('t5', 'at', 24)]
-    B(5, 't5', 'v1', 'go')                                                    # 길이 다르면 그대로
-    code += [sll('at', 'at', 8), sra('at', 'at', 8), addu('a0', 'at', 't9')]  # 부호 있는 24비트 → a0
+    code += [lw('at', 4, 't4')]
+    B(5, 'at', 'v1', 'go')                                                    # 둘째 열쇠(해시2+길이) 다르면 그대로
+    code += [lw('at', 8, 't4'), NOP, addu('a0', 'at', 't9')]                  # 한글 위치(기준 상대) → a0
     lab('go')
     if mode == 'query':
         code += [move('v0', 'a0'), I(55, 'sp', 'ra', 0), jr('ra'), addiu('sp', 'sp', 0x20)]
@@ -123,7 +131,7 @@ def build(blob_addr, parse_addr, entries, place, write=None):
     rows = select(entries)
     code, dir_off = _code(blob_addr, parse_addr)
     groups = [[r for r in rows if r[0] >> 28 == b] for b in range(NB)]
-    baddr = [place(bytes(8 * len(g))) if g else None for g in groups]
+    baddr = [place(bytes(12 * len(g))) if g else None for g in groups]
     groups = [g if baddr[b] is not None else [] for b, g in enumerate(groups)]     # 버킷 자리 없으면 그 버킷 생략
     dirb = bytearray(); n = 0; seen = {}; seen = {}
     for b, g in enumerate(groups):
@@ -133,13 +141,12 @@ def build(blob_addr, parse_addr, entries, place, write=None):
             if a is None: a = seen[ko] = place(ko + b'\0')
             if a is None: continue                                # 문자열 자리 없음 → 이 항목 생략
             so = a - blob_addr
-            assert -(1 << 23) <= so < (1 << 23)
-            recs += struct.pack('<2I', h, (len(en) << 24) | (so & 0xffffff))
+            recs += struct.pack('<2Ii', h, key2(en), so)
         g = recs                                                  # 실제 기록된 항목
-        n += len(recs) // 8
+        n += len(recs) // 12
         if g:
             (write or (lambda a, x: None))(baddr[b], bytes(recs))
-            dirb += struct.pack('<iI', baddr[b] - blob_addr, len(recs) // 8)
+            dirb += struct.pack('<iI', baddr[b] - blob_addr, len(recs) // 12)
         else:
             dirb += struct.pack('<iI', 0, 0)
     blob = b''.join(struct.pack('<I', w) for w in code) + bytes(dirb)
