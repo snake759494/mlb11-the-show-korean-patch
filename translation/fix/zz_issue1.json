@@ -23,5 +23,13 @@
 "PLAID": "격자",
 "CHECKER": "체크",
 "CIRCLE": "원형",
-"TURF": "인조 잔디"
+"TURF": "인조 잔디",
+"%1Placed %2 %3 on the %4 disabled list (%5)": "%1 %2 %3 %4 부상자 명단 등재(%5)",
+"%1Activated %2 %3 from the disabled list.": "%1 %2 %3 부상자 명단에서 복귀",
+"SCHEDULE": "일정",
+"SIM SEASON": "시즌 시뮬",
+"Sim Season": "시즌 시뮬",
+"CURRENT": "현재",
+"DEFAULT": "기본",
+"SAVED": "저장됨"
 }

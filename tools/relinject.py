@@ -19,6 +19,8 @@ def inject(d, enc_map, log=None, allow=None, reserve=0, extra=None):
     for i, o, ty, si, a in R:
         for k in range(4): fields.add(o + k)
     addrs = sorted(tgt)
+    _kc = collections.Counter(((struct.unpack_from('<I', d, o)[0] - a) & 0xffff) for i, o, ty, si, a in R if si == 0 and ty == 6)
+    K0 = _kc.most_common(1)[0][0] if _kc else 0
     import bisect
     end_img = h[5]
     cand = []
@@ -31,6 +33,9 @@ def inject(d, enc_map, log=None, allow=None, reserve=0, extra=None):
         except: continue
         if t not in enc_map: continue
         if allow is not None and not allow(a, t): continue
+        # LO16 참조의 (즉시값 - 주소) 차가 이 구역의 기준값과 다르면 다른 구역(BSS 등)의 같은 오프셋을 가리키는 참조 → 문자열 아님
+        # (예: FE 0x32a578 'Arm Acc' 와 겹치는 트랜잭션 목록 접근 lw — 옮기면 목록을 엉뚱한 곳에서 읽어 모든 행이 같은 문장이 됨)
+        if any(R[i][2] == 6 and ((struct.unpack_from('<I', d, R[i][1])[0] - a) & 0xffff) != K0 for i in tgt[a]): continue
         new = enc_map[t]
         if new == s: continue
         # 칸 끝: 다음 0 아닌 바이트

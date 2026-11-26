@@ -126,11 +126,15 @@ def main():
             p = codepatch.patch(d, m) if m != 'INITDLL' else d
             if not os.environ.get('KO_NOREL'):
                 em = {k: v for k, v in em_all.items() if (k in relkeys or k in PAUSE_WORDS) and (m == 'FE' or ' ' in k.strip() or '%' in k or k in PAUSE_WORDS)}
+                if m == 'GAME': em['s'] = b''
                 TITLES = {'Warning', 'WARNING', 'Confirm', 'CONFIRM', 'Notice', 'NOTICE', 'Error', 'ERROR', 'OK', 'YES', 'NO', 'CANCEL', 'Substitution'}
                 SAFE = set(json.load(open(os.path.join(ROOT, 'translation', 'rel_safe_words.json'), encoding='utf-8')))
                 def allow(a, t, m=m):
                     if m == 'FE' and os.environ.get('KO_RNG') and not (int(os.environ['KO_RNG'].split('-')[0], 16) <= a < int(os.environ['KO_RNG'].split('-')[1], 16)): return False
-                    if m == 'FE' and 0x2fa000 <= a < 0x2fc000: return False   # 유니폼 종류 표(Home/Alternate/Throwback/Warmup/Road): 유니폼 로더가 원문으로 비교
+                    if m == 'FE' and 0x32acd0 <= a < 0x32ae00: return False   # 수상 화면 제목 표(L1/R1 전환): 데이터 원문 유지, 표시 훅으로 번역
+                    if m == 'GAME' and a == 0x3a0c68: return True               # '%s Innings, %d Hit' 뒤 복수형 's' → 빈 문자열
+                    if m == 'FE' and (a == 0x3196a8 or 0x31b878 <= a < 0x31ba70): return False   # 'Highlight %d'(일정 커서 요소 이름)·주자/볼카운트 애니메이션 키
+                    if m == 'FE' and 0x2fbe80 <= a < 0x2fbf18: return False   # 팀 선택 컨트롤러 위치 키(CPU LEFT/PLAYER 1 (EXPOSED) 등): 유니폼 표시 판정에 원문 사용
                     if t in SAFE and m == 'FE': return True
                     if ' ' in t.strip() or '%' in t: return True          # 문장형·printf
                     if t in TITLES: return True                           # 팝업 제목
@@ -164,9 +168,10 @@ def main():
                     if ko is not None: disp_all[S] = tr.enc(pre) + ko + tr.enc(suf)
                 # 팀 DB(도시·별칭)는 내부 키라 데이터는 원문 유지 → 화면 표시 단계에서만 교체 (원문/대문자 표기 모두)
                 TEAMK = set()
+                _KEEP = {x.lower() for x in json.load(open(os.path.join(ROOT, 'translation', 'keep_en.json'), encoding='utf-8'))}
                 for _k, _v in _td.items():
                     _k2 = _k.strip()
-                    if _v and sum(ch.isalpha() for ch in _k2) >= 2:
+                    if _v and sum(ch.isalpha() for ch in _k2) >= 2 and _k2.lower() not in _KEEP:
                         for _kk in (_k2, _k2.upper()):
                             if len(_kk) <= 40: disp_all.setdefault(_kk, tr.enc(_v.strip())); TEAMK.add(_kk.encode('latin1'))
                 # 팝업 버튼·제목: 실행 중 '^j1^'+단어 로 조합되어 그려짐(예: ^j1^CANCEL) → 정렬 표식 변형을 미리 넣음
@@ -186,7 +191,7 @@ def main():
                             disp_all.setdefault(_pre + _ww, tr.enc(_pre) + _ko); PRIO.add((_pre + _ww).encode('latin1'))
                 # 수동 지정 표시 번역(disp_manual.json)도 우선
                 for _k in json.load(open(os.path.join(ROOT, 'translation', 'fix', 'disp_manual.json'), encoding='utf-8')):
-                    if _k in disp_all: PRIO.add(_k.encode('latin1'))
+                    if _k in em_all: disp_all[_k] = em_all[_k]; PRIO.add(_k.encode('latin1'))
                 for _w in POPW:
                     _ko = CORE.get(_w) or CORE_L.get(_w.lower())
                     if _ko is None: continue
@@ -194,7 +199,7 @@ def main():
                         for _ww in ({_w, _w.upper()} if m == 'FE' else {_w.upper()}):
                             disp_all.setdefault(_pre + _ww, tr.enc(_pre) + _ko); PRIO.add((_pre + _ww).encode('latin1'))
                 _, st0 = relinject.inject(p, em, allow=allow, reserve=0)          # 데이터로 번역될 것 확정
-                disp_all = {k: v for k, v in disp_all.items() if k not in st0['done']}
+                disp_all = {k: v for k, v in disp_all.items() if k not in st0['done'] or k.encode('latin1') in PRIO or k.encode('latin1') in TEAMK}
                 disp = {k.encode('latin1'): v for k, v in disp_all.items()}
                 RES = 0 if (os.environ.get('KO_NOHOOK') and os.environ.get('KO_NOKBD')) else KBD + disphook.code_size()
                 p, st = relinject.inject(p, em, allow=allow, reserve=RES)
@@ -213,7 +218,7 @@ def main():
                         cap = sum(f[1] - f[0] for f in FREE) * 0.85 - 16 * 8
                         sel = {}; used = 0; kos = set()
                         MODB = {x.encode('latin1') for x in modstr}
-                        for k in sorted(disp, key=lambda k: (0 if k in PRIO else 1 if (k in MODB or k in TEAMK) else 2, len(k), k)):          # 이 모듈 문자열 → 짧은 UI 문구 우선
+                        for k in sorted(disp, key=lambda k: (0 if (k in PRIO or k in TEAMK) else 1 if k in MODB else 2, len(k), k)):          # 이 모듈 문자열 → 짧은 UI 문구 우선
                             c = (0 if disp[k] in kos else len(disp[k]) + 1) + 12
                             if used + c > cap: continue
                             sel[k] = disp[k]; used += c; kos.add(disp[k])
